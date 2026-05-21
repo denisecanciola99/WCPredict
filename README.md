@@ -1,5 +1,4 @@
 # WCPredict
-WCPredict
 Using historical World Cup match data (1930-2022) to predict the 2026 FIFA World Cup.
 About
 This project builds a machine learning pipeline that analyzes 944 historical World Cup matches to predict outcomes for the 2026 tournament. It engineers features from raw match data, compares multiple classification models, and simulates the entire tournament from group stage through the final.
