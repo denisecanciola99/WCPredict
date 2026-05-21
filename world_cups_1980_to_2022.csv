@@ -1,0 +1,945 @@
+﻿comp,season,round,date,home,away,home_score,away_score,neutral,match_id,result
+world_cup,1930,Group stage,13/07/1930,USA,Belgium,3,0,1,cd35753f9be2,H
+world_cup,1930,Group stage,13/07/1930,France,Mexico,4,1,1,139306fd16a2,H
+world_cup,1930,Group stage,14/07/1930,Yugoslavia,Brazil,2,1,1,43cf841fa337,H
+world_cup,1930,Group stage,14/07/1930,Romania,Peru,3,1,1,6702a75108b6,H
+world_cup,1930,Group stage,15/07/1930,Argentina,France,1,0,1,5e907ecf93b0,H
+world_cup,1930,Group stage,16/07/1930,Chile,Mexico,3,0,1,ea10634e8e9b,H
+world_cup,1930,Group stage,17/07/1930,Yugoslavia,Bolivia,4,0,1,4e5fb1fd90a8,H
+world_cup,1930,Group stage,17/07/1930,USA,Paraguay,3,0,1,e25f97378bda,H
+world_cup,1930,Group stage,18/07/1930,Uruguay,Peru,1,0,1,4805fa1b00a2,H
+world_cup,1930,Group stage,19/07/1930,Chile,France,1,0,1,9d1bcb4c7bdb,H
+world_cup,1930,Group stage,19/07/1930,Argentina,Mexico,6,3,1,569f2eb5b517,H
+world_cup,1930,Group stage,20/07/1930,Brazil,Bolivia,4,0,1,f18fd8adb90e,H
+world_cup,1930,Group stage,20/07/1930,Paraguay,Belgium,1,0,1,c2aea7aed501,H
+world_cup,1930,Group stage,21/07/1930,Uruguay,Romania,4,0,1,5a11c381ce42,H
+world_cup,1930,Group stage,22/07/1930,Argentina,Chile,3,1,1,8cfee73b375f,H
+world_cup,1930,Semi-finals,26/07/1930,Argentina,USA,6,1,1,b88f73272385,H
+world_cup,1930,Semi-finals,27/07/1930,Uruguay,Yugoslavia,6,1,1,01b77922c59f,H
+world_cup,1930,Final,30/07/1930,Uruguay,Argentina,4,2,1,ff629329b85b,H
+world_cup,1934,Round of 16,27/05/1934,Sweden,Argentina,3,2,1,f9c2af28aa4d,H
+world_cup,1934,Round of 16,27/05/1934,Germany,Belgium,5,2,1,4266cb58034d,H
+world_cup,1934,Round of 16,27/05/1934,Italy,USA,7,1,1,51727878283f,H
+world_cup,1934,Round of 16,27/05/1934,Spain,Brazil,3,1,1,5cbc37a5e190,H
+world_cup,1934,Round of 16,27/05/1934,Czechoslovakia,Romania,2,1,1,87d2da81ca99,H
+world_cup,1934,Round of 16,27/05/1934,Austria,France,3,2,1,88ee7819e8ae,H
+world_cup,1934,Round of 16,27/05/1934,Hungary,Egypt,4,2,1,c6b48431f439,H
+world_cup,1934,Round of 16,27/05/1934,Switzerland,Netherlands,3,2,1,b0016259c9b2,H
+world_cup,1934,Quarter-finals,31/05/1934,Czechoslovakia,Switzerland,3,2,1,5006a5d53a61,H
+world_cup,1934,Quarter-finals,31/05/1934,Austria,Hungary,2,1,1,4b02706b0c61,H
+world_cup,1934,Quarter-finals,31/05/1934,Germany,Sweden,2,1,1,59b164ecde00,H
+world_cup,1934,Quarter-finals,31/05/1934,Italy,Spain,1,1,1,45799d839f1f,D
+world_cup,1934,Quarter-finals,1/6/1934,Italy,Spain,1,0,1,308ce3f1d111,H
+world_cup,1934,Semi-finals,3/6/1934,Czechoslovakia,Germany,3,1,1,7f63482da0c8,H
+world_cup,1934,Semi-finals,3/6/1934,Italy,Austria,1,0,1,0f14a78bf313,H
+world_cup,1934,Third-place match,7/6/1934,Germany,Austria,3,2,1,24fb4ea5bf31,H
+world_cup,1934,Final,10/6/1934,Italy,Czechoslovakia,2,1,1,05bc2709a404,H
+world_cup,1938,Round of 16,4/6/1938,Switzerland,Germany,1,1,1,66c672fdcb9a,D
+world_cup,1938,Round of 16,5/6/1938,Czechoslovakia,Netherlands,3,0,1,ff066529e72d,H
+world_cup,1938,Round of 16,5/6/1938,Brazil,Poland,6,5,1,24db9f06ac2d,H
+world_cup,1938,Round of 16,5/6/1938,Italy,Norway,2,1,1,8a3c93a82c09,H
+world_cup,1938,Round of 16,5/6/1938,Hungary,Dutch East Indies,6,0,1,721100c47a8b,H
+world_cup,1938,Round of 16,5/6/1938,Cuba,Romania,3,3,1,a7766a7e3c90,D
+world_cup,1938,Round of 16,5/6/1938,France,Belgium,3,1,1,09485e9f683a,H
+world_cup,1938,Round of 16,9/6/1938,Switzerland,Germany,4,2,1,d32a49020c81,H
+world_cup,1938,Round of 16,9/6/1938,Cuba,Romania,2,1,1,6c16c0a66aa5,H
+world_cup,1938,Quarter-finals,12/6/1938,Italy,France,3,1,1,e0265dadb0d2,H
+world_cup,1938,Quarter-finals,12/6/1938,Sweden,Cuba,8,0,1,c96d2696a5f3,H
+world_cup,1938,Quarter-finals,12/6/1938,Brazil,Czechoslovakia,1,1,1,0cf9cfdc968f,D
+world_cup,1938,Quarter-finals,12/6/1938,Hungary,Switzerland,2,0,1,0bb65ffd0db9,H
+world_cup,1938,Quarter-finals,14/06/1938,Brazil,Czechoslovakia,2,1,1,ffd247ebc041,H
+world_cup,1938,Semi-finals,16/06/1938,Italy,Brazil,2,1,1,90b967a7e4c5,H
+world_cup,1938,Semi-finals,16/06/1938,Hungary,Sweden,5,1,1,e9c1fbaf4f14,H
+world_cup,1938,Third-place match,19/06/1938,Brazil,Sweden,4,2,1,bcdc9c23c163,H
+world_cup,1938,Final,19/06/1938,Italy,Hungary,4,2,1,848a5faae987,H
+world_cup,1950,Group stage,24/06/1950,Brazil,Mexico,4,0,1,336e72b0768b,H
+world_cup,1950,Group stage,25/06/1950,Sweden,Italy,3,2,1,93e59bf5b869,H
+world_cup,1950,Group stage,25/06/1950,England,Chile,2,0,1,cd21e47f6a04,H
+world_cup,1950,Group stage,25/06/1950,Spain,USA,3,1,1,db8d91752066,H
+world_cup,1950,Group stage,25/06/1950,Yugoslavia,Switzerland,3,0,1,4fc82a508aa0,H
+world_cup,1950,Group stage,28/06/1950,Brazil,Switzerland,2,2,1,959d7b66f8ea,D
+world_cup,1950,Group stage,28/06/1950,Yugoslavia,Mexico,4,1,1,817b8c2c9080,H
+world_cup,1950,Group stage,29/06/1950,Spain,Chile,2,0,1,1687c30a33b0,H
+world_cup,1950,Group stage,29/06/1950,USA,England,1,0,1,de564e89f347,H
+world_cup,1950,Group stage,29/06/1950,Sweden,Paraguay,2,2,1,2ff18e03fc58,D
+world_cup,1950,Group stage,1/7/1950,Brazil,Yugoslavia,2,0,1,7ff121c94098,H
+world_cup,1950,Group stage,2/7/1950,Switzerland,Mexico,2,1,1,593f3614f770,H
+world_cup,1950,Group stage,2/7/1950,Spain,England,1,0,1,f248d6d6ef83,H
+world_cup,1950,Group stage,2/7/1950,Uruguay,Bolivia,8,0,1,92ee53f1dc58,H
+world_cup,1950,Group stage,2/7/1950,Italy,Paraguay,2,0,1,2c670e260dc1,H
+world_cup,1950,Group stage,2/7/1950,Chile,USA,5,2,1,3307787e3a41,H
+world_cup,1950,Final stage,9/7/1950,Brazil,Sweden,7,1,1,3a20d454a7ba,H
+world_cup,1950,Final stage,9/7/1950,Uruguay,Spain,2,2,1,a923b9564ebc,D
+world_cup,1950,Final stage,13/07/1950,Brazil,Spain,6,1,1,310b4c486be5,H
+world_cup,1950,Final stage,13/07/1950,Uruguay,Sweden,3,2,1,15910ff7971a,H
+world_cup,1950,Final stage,16/07/1950,Uruguay,Brazil,2,1,1,3944a5fa0be0,H
+world_cup,1950,Final stage,16/07/1950,Sweden,Spain,3,1,1,62269d2c865a,H
+world_cup,1954,Group stage,16/06/1954,Yugoslavia,France,1,0,1,1dbdfdf2fd5d,H
+world_cup,1954,Group stage,16/06/1954,Uruguay,Czechoslovakia,2,0,1,9ac8619eaf5d,H
+world_cup,1954,Group stage,16/06/1954,Brazil,Mexico,5,0,1,ee88f6a2ff42,H
+world_cup,1954,Group stage,16/06/1954,Austria,Scotland,1,0,1,c912f302dee6,H
+world_cup,1954,Group stage,17/06/1954,Switzerland,Italy,2,1,0,2531a2432705,H
+world_cup,1954,Group stage,17/06/1954,Hungary,South Korea,9,0,1,0c65cadde310,H
+world_cup,1954,Group stage,17/06/1954,Germany,Turkey,4,1,1,2cba4c54a711,H
+world_cup,1954,Group stage,17/06/1954,England,Belgium,4,4,1,43d1e136f07b,D
+world_cup,1954,Group stage,19/06/1954,Uruguay,Scotland,7,0,1,d011dfebae3e,H
+world_cup,1954,Group stage,19/06/1954,Austria,Czechoslovakia,5,0,1,6545524c756b,H
+world_cup,1954,Group stage,19/06/1954,Brazil,Yugoslavia,1,1,1,ad0e85aaaa1d,D
+world_cup,1954,Group stage,19/06/1954,France,Mexico,3,2,1,d154b4dd1929,H
+world_cup,1954,Group stage,20/06/1954,Italy,Belgium,4,1,1,0a005149d879,H
+world_cup,1954,Group stage,20/06/1954,Turkey,South Korea,7,0,1,d4abc0794f23,H
+world_cup,1954,Group stage,20/06/1954,Switzerland,England,0,2,0,89981282e6d0,A
+world_cup,1954,Group stage,20/06/1954,Hungary,Germany,8,3,1,66a9e86b25af,H
+world_cup,1954,Group stage play-off,23/06/1954,Germany,Turkey,7,2,1,a244aa4b7f32,H
+world_cup,1954,Group stage play-off,23/06/1954,Switzerland,Italy,4,1,0,36290cd6da73,H
+world_cup,1954,Quarter-finals,26/06/1954,Switzerland,Austria,5,7,0,7f3c3865e10d,A
+world_cup,1954,Quarter-finals,26/06/1954,Uruguay,England,4,2,1,b63a8225ceec,H
+world_cup,1954,Quarter-finals,27/06/1954,Hungary,Brazil,4,2,1,9f846259d15a,H
+world_cup,1954,Quarter-finals,27/06/1954,Germany,Yugoslavia,2,0,1,f2492da4298c,H
+world_cup,1954,Semi-finals,30/06/1954,Hungary,Uruguay,4,2,1,b5db8ed4ce63,H
+world_cup,1954,Semi-finals,30/06/1954,Germany,Austria,6,1,1,769ad87b36df,H
+world_cup,1954,Third-place match,3/7/1954,Austria,Uruguay,3,1,1,9ceb7b631fac,H
+world_cup,1954,Final,4/7/1954,Germany,Hungary,3,2,1,cc78d681a353,H
+world_cup,1958,Group stage,8/6/1958,Brazil,Austria,3,0,1,5c2a01625883,H
+world_cup,1958,Group stage,8/6/1958,Yugoslavia,Scotland,1,1,1,dfda43ff130a,D
+world_cup,1958,Group stage,8/6/1958,N. Ireland,Czechoslovakia,1,0,1,6c5b93e1cf89,H
+world_cup,1958,Group stage,8/6/1958,France,Paraguay,7,3,1,44b654f3cb7d,H
+world_cup,1958,Group stage,8/6/1958,Hungary,Wales,1,1,1,877e185fdd46,D
+world_cup,1958,Group stage,8/6/1958,Argentina,Germany,1,3,1,f4198c53d497,A
+world_cup,1958,Group stage,8/6/1958,Soviet Union,England,2,2,1,d72a568a5485,D
+world_cup,1958,Group stage,8/6/1958,Sweden,Mexico,3,0,1,a7a2bd39b660,H
+world_cup,1958,Group stage,11/6/1958,Paraguay,Scotland,3,2,1,e4bb21b63054,H
+world_cup,1958,Group stage,11/6/1958,Argentina,N. Ireland,3,1,1,6f5df1b58527,H
+world_cup,1958,Group stage,11/6/1958,Yugoslavia,France,3,2,1,7b27b92c24c2,H
+world_cup,1958,Group stage,11/6/1958,Brazil,England,0,0,1,40a154b7255e,D
+world_cup,1958,Group stage,11/6/1958,Mexico,Wales,1,1,1,ba932f1dee5c,D
+world_cup,1958,Group stage,11/6/1958,Soviet Union,Austria,2,0,1,74135a91b53c,H
+world_cup,1958,Group stage,11/6/1958,Germany,Czechoslovakia,2,2,1,a0c7e03be2a7,D
+world_cup,1958,Group stage,12/6/1958,Sweden,Hungary,2,1,1,cd35c916f8ab,H
+world_cup,1958,Group stage,15/06/1958,France,Scotland,2,1,1,b93327b8593c,H
+world_cup,1958,Group stage,15/06/1958,Brazil,Soviet Union,2,0,1,727ecbaada87,H
+world_cup,1958,Group stage,15/06/1958,Czechoslovakia,Argentina,6,1,1,c9438ca7e40d,H
+world_cup,1958,Group stage,15/06/1958,England,Austria,2,2,1,e5dcda9a84f0,D
+world_cup,1958,Group stage,15/06/1958,Hungary,Mexico,4,0,1,d33dae090941,H
+world_cup,1958,Group stage,15/06/1958,Germany,N. Ireland,2,2,1,ca7b167f6ade,D
+world_cup,1958,Group stage,15/06/1958,Sweden,Wales,0,0,1,b1a4b09ae29e,D
+world_cup,1958,Group stage,15/06/1958,Paraguay,Yugoslavia,3,3,1,05afbd78e7e3,D
+world_cup,1958,Group stage play-off,17/06/1958,Wales,Hungary,2,1,1,83b8b87f5144,H
+world_cup,1958,Group stage play-off,17/06/1958,N. Ireland,Czechoslovakia,2,1,1,e90fc7a14c1f,H
+world_cup,1958,Group stage play-off,17/06/1958,Soviet Union,England,1,0,1,ffce3076e23b,H
+world_cup,1958,Quarter-finals,19/06/1958,Sweden,Soviet Union,2,0,1,b07d75aa9f55,H
+world_cup,1958,Quarter-finals,19/06/1958,France,N. Ireland,4,0,1,bd696fb74797,H
+world_cup,1958,Quarter-finals,19/06/1958,Germany,Yugoslavia,1,0,1,c2334240f835,H
+world_cup,1958,Quarter-finals,19/06/1958,Brazil,Wales,1,0,1,3f7365c937e3,H
+world_cup,1958,Semi-finals,24/06/1958,Sweden,Germany,3,1,1,f0cce4362413,H
+world_cup,1958,Semi-finals,24/06/1958,Brazil,France,5,2,1,337b77276944,H
+world_cup,1958,Third-place match,28/06/1958,France,Germany,6,3,1,70629734cd75,H
+world_cup,1958,Final,29/06/1958,Brazil,Sweden,5,2,1,d0a9a4fdbbba,H
+world_cup,1962,Group stage,30/05/1962,Brazil,Mexico,2,0,1,fc5280855863,H
+world_cup,1962,Group stage,30/05/1962,Argentina,Bulgaria,1,0,1,eb21991cb4e4,H
+world_cup,1962,Group stage,30/05/1962,Uruguay,Colombia,2,1,1,0c083a4da9ef,H
+world_cup,1962,Group stage,30/05/1962,Chile,Switzerland,3,1,1,82ebd7fa3264,H
+world_cup,1962,Group stage,31/05/1962,Soviet Union,Yugoslavia,2,0,1,1a0e624a7433,H
+world_cup,1962,Group stage,31/05/1962,Germany,Italy,0,0,1,87bdca7fe61b,D
+world_cup,1962,Group stage,31/05/1962,Czechoslovakia,Spain,1,0,1,fab1f80cf9c9,H
+world_cup,1962,Group stage,31/05/1962,Hungary,England,2,1,1,3b874a3b4949,H
+world_cup,1962,Group stage,2/6/1962,Chile,Italy,2,0,1,9124e7a2f8f3,H
+world_cup,1962,Group stage,2/6/1962,Yugoslavia,Uruguay,3,1,1,dcaa010881bf,H
+world_cup,1962,Group stage,2/6/1962,Brazil,Czechoslovakia,0,0,1,06c798a0bb21,D
+world_cup,1962,Group stage,2/6/1962,England,Argentina,3,1,1,566e2d6cc132,H
+world_cup,1962,Group stage,3/6/1962,Soviet Union,Colombia,4,4,1,53cc29a489de,D
+world_cup,1962,Group stage,3/6/1962,Germany,Switzerland,2,1,1,5b09af497960,H
+world_cup,1962,Group stage,3/6/1962,Hungary,Bulgaria,6,1,1,1efd3da73378,H
+world_cup,1962,Group stage,3/6/1962,Spain,Mexico,1,0,1,3574c36ef752,H
+world_cup,1962,Group stage,6/6/1962,Soviet Union,Uruguay,2,1,1,998ca4fb3ae7,H
+world_cup,1962,Group stage,6/6/1962,Hungary,Argentina,0,0,1,c4370b21bdd8,D
+world_cup,1962,Group stage,6/6/1962,Germany,Chile,2,0,1,063bd8145a63,H
+world_cup,1962,Group stage,6/6/1962,Brazil,Spain,2,1,1,ac533225d2f8,H
+world_cup,1962,Group stage,7/6/1962,England,Bulgaria,0,0,1,2245c960507a,D
+world_cup,1962,Group stage,7/6/1962,Mexico,Czechoslovakia,3,1,1,83a5680c4daa,H
+world_cup,1962,Group stage,7/6/1962,Italy,Switzerland,3,0,1,7fc382550d5b,H
+world_cup,1962,Group stage,7/6/1962,Yugoslavia,Colombia,5,0,1,8a06f816d0db,H
+world_cup,1962,Quarter-finals,10/6/1962,Chile,Soviet Union,2,1,1,023fcbd0765a,H
+world_cup,1962,Quarter-finals,10/6/1962,Yugoslavia,Germany,1,0,1,6b90f5135cc7,H
+world_cup,1962,Quarter-finals,10/6/1962,Czechoslovakia,Hungary,1,0,1,a1fafc368831,H
+world_cup,1962,Quarter-finals,10/6/1962,Brazil,England,3,1,1,2d7b32d55fed,H
+world_cup,1962,Semi-finals,13/06/1962,Brazil,Chile,4,2,1,f7d3506c02a0,H
+world_cup,1962,Semi-finals,13/06/1962,Czechoslovakia,Yugoslavia,3,1,1,2362e18a72d2,H
+world_cup,1962,Third-place match,16/06/1962,Chile,Yugoslavia,1,0,1,ee9f151375bb,H
+world_cup,1962,Final,17/06/1962,Brazil,Czechoslovakia,3,1,1,2c542e0c6304,H
+world_cup,1966,Group stage,11/7/1966,England,Uruguay,0,0,1,b35c8f59a2da,D
+world_cup,1966,Group stage,12/7/1966,Brazil,Bulgaria,2,0,1,0b5d3c8656ed,H
+world_cup,1966,Group stage,12/7/1966,Soviet Union,North Korea,3,0,1,30f014d4c2ee,H
+world_cup,1966,Group stage,12/7/1966,Germany,Switzerland,5,0,1,078da6ab8fcd,H
+world_cup,1966,Group stage,13/07/1966,Argentina,Spain,2,1,1,f0d961e61f50,H
+world_cup,1966,Group stage,13/07/1966,Portugal,Hungary,3,1,1,0723fc772e24,H
+world_cup,1966,Group stage,13/07/1966,Italy,Chile,2,0,1,b7cb42b88598,H
+world_cup,1966,Group stage,13/07/1966,France,Mexico,1,1,1,3596b8b0e8fa,D
+world_cup,1966,Group stage,15/07/1966,Hungary,Brazil,3,1,1,252467f3438f,H
+world_cup,1966,Group stage,15/07/1966,North Korea,Chile,1,1,1,2b587768e279,D
+world_cup,1966,Group stage,15/07/1966,Spain,Switzerland,2,1,1,6898f6e1069c,H
+world_cup,1966,Group stage,15/07/1966,Uruguay,France,2,1,1,09e7f7ef48e7,H
+world_cup,1966,Group stage,16/07/1966,Portugal,Bulgaria,3,0,1,5447f87d082f,H
+world_cup,1966,Group stage,16/07/1966,Soviet Union,Italy,1,0,1,b3512a3429e1,H
+world_cup,1966,Group stage,16/07/1966,England,Mexico,2,0,1,dd3ce4e0e40f,H
+world_cup,1966,Group stage,16/07/1966,Germany,Argentina,0,0,1,9518fcef9fa7,D
+world_cup,1966,Group stage,19/07/1966,Uruguay,Mexico,0,0,1,197e88a1b696,D
+world_cup,1966,Group stage,19/07/1966,Portugal,Brazil,3,1,1,fd3ed576fcfd,H
+world_cup,1966,Group stage,19/07/1966,North Korea,Italy,1,0,1,aa16461636c0,H
+world_cup,1966,Group stage,19/07/1966,Argentina,Switzerland,2,0,1,9fee0dbf97bb,H
+world_cup,1966,Group stage,20/07/1966,Germany,Spain,2,1,1,04df8a78d6f0,H
+world_cup,1966,Group stage,20/07/1966,Soviet Union,Chile,2,1,1,6.16E+16,H
+world_cup,1966,Group stage,20/07/1966,England,France,2,0,1,2364da4470ec,H
+world_cup,1966,Group stage,20/07/1966,Hungary,Bulgaria,3,1,1,4cd2555328e6,H
+world_cup,1966,Quarter-finals,23/07/1966,Soviet Union,Hungary,2,1,1,03a01d13021f,H
+world_cup,1966,Quarter-finals,23/07/1966,Germany,Uruguay,4,0,1,2ee38bcb9b6a,H
+world_cup,1966,Quarter-finals,23/07/1966,Portugal,North Korea,5,3,1,a48e00a6ea8f,H
+world_cup,1966,Quarter-finals,23/07/1966,England,Argentina,1,0,1,112d886c7ea4,H
+world_cup,1966,Semi-finals,25/07/1966,Germany,Soviet Union,2,1,1,2edaf32f2021,H
+world_cup,1966,Semi-finals,26/07/1966,England,Portugal,2,1,1,ee0e0de3c4be,H
+world_cup,1966,Third-place match,28/07/1966,Portugal,Soviet Union,2,1,1,8e18d477478c,H
+world_cup,1966,Final,30/07/1966,England,Germany,4,2,1,19384ac20ad5,H
+world_cup,1970,Group stage,31/05/1970,Mexico,Soviet Union,0,0,1,c1cb9b235616,D
+world_cup,1970,Group stage,2/6/1970,Uruguay,Israel,2,0,1,904ac919aa0a,H
+world_cup,1970,Group stage,2/6/1970,Peru,Bulgaria,3,2,1,646d01ff352a,H
+world_cup,1970,Group stage,2/6/1970,England,Romania,1,0,1,b7db4472989f,H
+world_cup,1970,Group stage,3/6/1970,Germany,Morocco,2,1,1,8c2c63b648b8,H
+world_cup,1970,Group stage,3/6/1970,Italy,Sweden,1,0,1,07df48421e68,H
+world_cup,1970,Group stage,3/6/1970,Brazil,Czechoslovakia,4,1,1,e3951ac07ef0,H
+world_cup,1970,Group stage,3/6/1970,Belgium,El Salvador,3,0,1,a472639b1efb,H
+world_cup,1970,Group stage,6/6/1970,Soviet Union,Belgium,4,1,1,58b11d431ad2,H
+world_cup,1970,Group stage,6/6/1970,Peru,Morocco,3,0,1,0b32d96b5dd2,H
+world_cup,1970,Group stage,6/6/1970,Uruguay,Italy,0,0,1,2e1c3dcb7fe7,D
+world_cup,1970,Group stage,6/6/1970,Romania,Czechoslovakia,2,1,1,b25ed2a1b87f,H
+world_cup,1970,Group stage,7/6/1970,Germany,Bulgaria,5,2,1,dd1572230597,H
+world_cup,1970,Group stage,7/6/1970,Mexico,El Salvador,4,0,1,9a3a33e3c2ec,H
+world_cup,1970,Group stage,7/6/1970,Brazil,England,1,0,1,cd62f39bcddd,H
+world_cup,1970,Group stage,7/6/1970,Sweden,Israel,1,1,1,1333b7214e5c,D
+world_cup,1970,Group stage,10/6/1970,Sweden,Uruguay,1,0,1,03b00f9ebc31,H
+world_cup,1970,Group stage,10/6/1970,Germany,Peru,3,1,1,ab3cf31afe9e,H
+world_cup,1970,Group stage,10/6/1970,Soviet Union,El Salvador,2,0,1,66f35634c43c,H
+world_cup,1970,Group stage,10/6/1970,Brazil,Romania,3,2,1,002bd850b00a,H
+world_cup,1970,Group stage,11/6/1970,England,Czechoslovakia,1,0,1,cfb74e125765,H
+world_cup,1970,Group stage,11/6/1970,Italy,Israel,0,0,1,ec17f50dcbe1,D
+world_cup,1970,Group stage,11/6/1970,Mexico,Belgium,1,0,1,8700a0d32956,H
+world_cup,1970,Group stage,11/6/1970,Bulgaria,Morocco,1,1,1,c0b8b5894f14,D
+world_cup,1970,Quarter-finals,14/06/1970,Brazil,Peru,4,2,1,8bfc0e013afc,H
+world_cup,1970,Quarter-finals,14/06/1970,Germany,England,3,2,1,42d9436346ba,H
+world_cup,1970,Quarter-finals,14/06/1970,Italy,Mexico,4,1,1,6c6ed4dece77,H
+world_cup,1970,Quarter-finals,14/06/1970,Uruguay,Soviet Union,1,0,1,ebcce26308d5,H
+world_cup,1970,Semi-finals,17/06/1970,Brazil,Uruguay,3,1,1,e22de9d2aeb1,H
+world_cup,1970,Semi-finals,17/06/1970,Italy,Germany,4,3,1,1758c0c791be,H
+world_cup,1970,Third-place match,20/06/1970,Germany,Uruguay,1,0,1,ff92630cc845,H
+world_cup,1970,Final,21/06/1970,Brazil,Italy,4,1,1,9018b88cac35,H
+world_cup,1974,First round,13/06/1974,Brazil,Yugoslavia,0,0,1,634b353d5a5f,D
+world_cup,1974,First round,14/06/1974,Germany,Chile,1,0,1,c4a3d17062c4,H
+world_cup,1974,First round,14/06/1974,Germany DR,Australia,2,0,1,e8476fb15e83,H
+world_cup,1974,First round,14/06/1974,DR Congo,Scotland,0,2,1,5b76da7a3865,A
+world_cup,1974,First round,15/06/1974,Uruguay,Netherlands,0,2,1,607a4a756447,A
+world_cup,1974,First round,15/06/1974,Sweden,Bulgaria,0,0,1,1e45164cc89c,D
+world_cup,1974,First round,15/06/1974,Italy,Haiti,3,1,1,4ca6157c8769,H
+world_cup,1974,First round,15/06/1974,Poland,Argentina,3,2,1,60cdce41bdae,H
+world_cup,1974,First round,18/06/1974,Australia,Germany,0,3,1,bf6aa7958fff,A
+world_cup,1974,First round,18/06/1974,Yugoslavia,DR Congo,9,0,1,7dba5a825520,H
+world_cup,1974,First round,18/06/1974,Chile,Germany DR,1,1,1,3d19d16b7cc6,D
+world_cup,1974,First round,18/06/1974,Scotland,Brazil,0,0,1,a1180416931c,D
+world_cup,1974,First round,19/06/1974,Argentina,Italy,1,1,1,bb7e27026996,D
+world_cup,1974,First round,19/06/1974,Haiti,Poland,0,7,1,35931599019c,A
+world_cup,1974,First round,19/06/1974,Bulgaria,Uruguay,1,1,1,dbb956552304,D
+world_cup,1974,First round,19/06/1974,Netherlands,Sweden,0,0,1,8148fea6534f,D
+world_cup,1974,First round,22/06/1974,Germany DR,Germany,1,0,1,1ef92029a4cd,H
+world_cup,1974,First round,22/06/1974,DR Congo,Brazil,0,3,1,43f9f3e5d9da,A
+world_cup,1974,First round,22/06/1974,Australia,Chile,0,0,1,158200e02e54,D
+world_cup,1974,First round,22/06/1974,Scotland,Yugoslavia,1,1,1,4388157ea1ca,D
+world_cup,1974,First round,23/06/1974,Bulgaria,Netherlands,1,4,1,fe6fabcefbe1,A
+world_cup,1974,First round,23/06/1974,Poland,Italy,2,1,1,f581f2a450eb,H
+world_cup,1974,First round,23/06/1974,Sweden,Uruguay,3,0,1,748b14c2f143,H
+world_cup,1974,First round,23/06/1974,Argentina,Haiti,4,1,1,2f1dc89dc045,H
+world_cup,1974,Second round,26/06/1974,Netherlands,Argentina,4,0,1,ed2d781e1bf5,H
+world_cup,1974,Second round,26/06/1974,Brazil,Germany DR,1,0,1,d346dc3ba23f,H
+world_cup,1974,Second round,26/06/1974,Sweden,Poland,0,1,1,ad72b83106e6,A
+world_cup,1974,Second round,26/06/1974,Yugoslavia,Germany,0,2,1,7b633a765e7b,A
+world_cup,1974,Second round,30/06/1974,Poland,Yugoslavia,2,1,1,d76c791dfd2e,H
+world_cup,1974,Second round,30/06/1974,Argentina,Brazil,1,2,1,2bb34709d640,A
+world_cup,1974,Second round,30/06/1974,Germany DR,Netherlands,0,2,1,aa18e3d27f68,A
+world_cup,1974,Second round,30/06/1974,Germany,Sweden,4,2,1,25fa925f15d3,H
+world_cup,1974,Second round,3/7/1974,Argentina,Germany DR,1,1,1,49f0f6404184,D
+world_cup,1974,Second round,3/7/1974,Poland,Germany,0,1,1,32afb5c867ac,A
+world_cup,1974,Second round,3/7/1974,Netherlands,Brazil,2,0,1,b136f71dd58d,H
+world_cup,1974,Second round,3/7/1974,Sweden,Yugoslavia,2,1,1,4b25085d0a73,H
+world_cup,1974,Third-place match,6/7/1974,Brazil,Poland,0,1,1,45101c4e14db,A
+world_cup,1974,Final,7/7/1974,Netherlands,Germany,1,2,1,bb86fedc246b,A
+world_cup,1978,First round,1/6/1978,Germany,Poland,0,0,1,9473f9598fb8,D
+world_cup,1978,First round,2/6/1978,Argentina,Hungary,2,1,1,a136fe6504a0,H
+world_cup,1978,First round,2/6/1978,Tunisia,Mexico,3,1,1,1c8cbbd34025,H
+world_cup,1978,First round,2/6/1978,Italy,France,2,1,1,65df312e676d,H
+world_cup,1978,First round,3/6/1978,Sweden,Brazil,1,1,1,628781510a82,D
+world_cup,1978,First round,3/6/1978,Austria,Spain,2,1,1,ee87479084e8,H
+world_cup,1978,First round,3/6/1978,Peru,Scotland,3,1,1,6d8d01ce89fe,H
+world_cup,1978,First round,3/6/1978,Netherlands,Iran,3,0,1,f6d169c26a7f,H
+world_cup,1978,First round,6/6/1978,Argentina,France,2,1,1,c4ab51c83931,H
+world_cup,1978,First round,6/6/1978,Italy,Hungary,3,1,1,70b0070e6850,H
+world_cup,1978,First round,6/6/1978,Germany,Mexico,6,0,1,64f9aabf856f,H
+world_cup,1978,First round,6/6/1978,Poland,Tunisia,1,0,1,88524d32de00,H
+world_cup,1978,First round,7/6/1978,Austria,Sweden,1,0,1,6673827c5da4,H
+world_cup,1978,First round,7/6/1978,Brazil,Spain,0,0,1,1acdeacf906f,D
+world_cup,1978,First round,7/6/1978,Netherlands,Peru,0,0,1,a3ce6987a5ba,D
+world_cup,1978,First round,7/6/1978,Scotland,Iran,1,1,1,869d65f6924a,D
+world_cup,1978,First round,10/6/1978,Poland,Mexico,3,1,1,7246a903bb8a,H
+world_cup,1978,First round,10/6/1978,Germany,Tunisia,0,0,1,151918599b94,D
+world_cup,1978,First round,10/6/1978,Italy,Argentina,1,0,1,62e4d6ebad5d,H
+world_cup,1978,First round,10/6/1978,France,Hungary,3,1,1,a31cb377f38a,H
+world_cup,1978,First round,11/6/1978,Scotland,Netherlands,3,2,1,d986efea789a,H
+world_cup,1978,First round,11/6/1978,Peru,Iran,4,1,1,e26a91792cab,H
+world_cup,1978,First round,11/6/1978,Brazil,Austria,1,0,1,7c5191d6cbaf,H
+world_cup,1978,First round,11/6/1978,Spain,Sweden,1,0,1,67575260fca8,H
+world_cup,1978,Second round,14/06/1978,Netherlands,Austria,5,1,1,853d6bb24320,H
+world_cup,1978,Second round,14/06/1978,Germany,Italy,0,0,1,d3b2de9558cc,D
+world_cup,1978,Second round,14/06/1978,Brazil,Peru,3,0,1,82cc80d4bc93,H
+world_cup,1978,Second round,14/06/1978,Argentina,Poland,2,0,1,e905f77a5123,H
+world_cup,1978,Second round,18/06/1978,Poland,Peru,1,0,1,8697ea7811f3,H
+world_cup,1978,Second round,18/06/1978,Germany,Netherlands,2,2,1,2057b2664b20,D
+world_cup,1978,Second round,18/06/1978,Italy,Austria,1,0,1,7a9cba94c3cf,H
+world_cup,1978,Second round,18/06/1978,Argentina,Brazil,0,0,1,344c39c3214d,D
+world_cup,1978,Second round,21/06/1978,Argentina,Peru,6,0,1,fa0c5d1c8216,H
+world_cup,1978,Second round,21/06/1978,Austria,Germany,3,2,1,e22b1381d1ab,H
+world_cup,1978,Second round,21/06/1978,Netherlands,Italy,2,1,1,e1d408973414,H
+world_cup,1978,Second round,21/06/1978,Brazil,Poland,3,1,1,c02da450a433,H
+world_cup,1978,Third-place match,24/06/1978,Brazil,Italy,2,1,1,f0fc391803ed,H
+world_cup,1978,Final,25/06/1978,Argentina,Netherlands,3,1,1,8998869fdd32,H
+world_cup,1982,First group stage,13/06/1982,Argentina,Belgium,0,1,1,afdb34da918c,A
+world_cup,1982,First group stage,14/06/1982,Italy,Poland,0,0,1,d3a555e970f9,D
+world_cup,1982,First group stage,14/06/1982,Brazil,Soviet Union,2,1,1,c3d32f568f42,H
+world_cup,1982,First group stage,15/06/1982,Peru,Cameroon,0,0,1,adef726a51aa,D
+world_cup,1982,First group stage,15/06/1982,Hungary,El Salvador,10,1,1,aa3cab8028cc,H
+world_cup,1982,First group stage,15/06/1982,Scotland,New Zealand,5,2,1,60deb2a5422d,H
+world_cup,1982,First group stage,16/06/1982,England,France,3,1,1,2e42654075fa,H
+world_cup,1982,First group stage,16/06/1982,Germany,Algeria,1,2,1,540125d7938b,A
+world_cup,1982,First group stage,16/06/1982,Spain,Honduras,1,1,1,baefb0dca098,D
+world_cup,1982,First group stage,17/06/1982,Chile,Austria,0,1,1,528a1a65e742,A
+world_cup,1982,First group stage,17/06/1982,Czechoslovakia,Kuwait,1,1,1,8ee841b22155,D
+world_cup,1982,First group stage,17/06/1982,Yugoslavia,N. Ireland,0,0,1,ad55b3064a7c,D
+world_cup,1982,First group stage,18/06/1982,Italy,Peru,1,1,1,fd65dde06f8b,D
+world_cup,1982,First group stage,18/06/1982,Argentina,Hungary,4,1,1,dd655ab3226c,H
+world_cup,1982,First group stage,18/06/1982,Brazil,Scotland,4,1,1,9e8cf5bef35c,H
+world_cup,1982,First group stage,19/06/1982,Poland,Cameroon,0,0,1,fa3e60786b75,D
+world_cup,1982,First group stage,19/06/1982,Belgium,El Salvador,1,0,1,b8d1068fecb1,H
+world_cup,1982,First group stage,19/06/1982,Soviet Union,New Zealand,3,0,1,89ae1911cebf,H
+world_cup,1982,First group stage,20/06/1982,Spain,Yugoslavia,2,1,1,9daa3f463083,H
+world_cup,1982,First group stage,20/06/1982,Germany,Chile,4,1,1,23f713180d9e,H
+world_cup,1982,First group stage,20/06/1982,England,Czechoslovakia,2,0,1,904d6ce8cb91,H
+world_cup,1982,First group stage,21/06/1982,France,Kuwait,4,1,1,e091325780c3,H
+world_cup,1982,First group stage,21/06/1982,Algeria,Austria,0,2,1,890bf62d3807,A
+world_cup,1982,First group stage,21/06/1982,Honduras,N. Ireland,1,1,1,93d253fae961,D
+world_cup,1982,First group stage,22/06/1982,Soviet Union,Scotland,2,2,1,f0c9b6adb72d,D
+world_cup,1982,First group stage,22/06/1982,Belgium,Hungary,1,1,1,d46faebee563,D
+world_cup,1982,First group stage,22/06/1982,Poland,Peru,5,1,1,ca6afa8db911,H
+world_cup,1982,First group stage,23/06/1982,Italy,Cameroon,1,1,1,002aba48c862,D
+world_cup,1982,First group stage,23/06/1982,Brazil,New Zealand,4,0,1,bab6ef74c05c,H
+world_cup,1982,First group stage,23/06/1982,Argentina,El Salvador,2,0,1,a94f7230c061,H
+world_cup,1982,First group stage,24/06/1982,France,Czechoslovakia,1,1,1,f366c4af8c50,D
+world_cup,1982,First group stage,24/06/1982,Algeria,Chile,3,2,1,38a5063947ee,H
+world_cup,1982,First group stage,24/06/1982,Honduras,Yugoslavia,0,1,1,6cb30a3953ae,A
+world_cup,1982,First group stage,25/06/1982,Germany,Austria,1,0,1,ede4ac17dc15,H
+world_cup,1982,First group stage,25/06/1982,England,Kuwait,1,0,1,64e3c9995dba,H
+world_cup,1982,First group stage,25/06/1982,N. Ireland,Spain,1,0,1,3ca398eeddbf,H
+world_cup,1982,Second group stage,28/06/1982,Austria,France,0,1,1,1064ec4775b5,A
+world_cup,1982,Second group stage,28/06/1982,Poland,Belgium,3,0,1,555c7be8956d,H
+world_cup,1982,Second group stage,29/06/1982,Germany,England,0,0,1,699303d91090,D
+world_cup,1982,Second group stage,29/06/1982,Italy,Argentina,2,1,1,0447281e5960,H
+world_cup,1982,Second group stage,1/7/1982,Austria,N. Ireland,2,2,1,39b6cfcee496,D
+world_cup,1982,Second group stage,1/7/1982,Belgium,Soviet Union,0,1,1,4a9635ee7038,A
+world_cup,1982,Second group stage,2/7/1982,Germany,Spain,2,1,1,c2864b4ac570,H
+world_cup,1982,Second group stage,2/7/1982,Argentina,Brazil,1,3,1,1be4998758ea,A
+world_cup,1982,Second group stage,4/7/1982,France,N. Ireland,4,1,1,88911e02d2ad,H
+world_cup,1982,Second group stage,4/7/1982,Poland,Soviet Union,0,0,1,d61d18508461,D
+world_cup,1982,Second group stage,5/7/1982,Spain,England,0,0,1,aab6fbe9af28,D
+world_cup,1982,Second group stage,5/7/1982,Italy,Brazil,3,2,1,44057c57a06d,H
+world_cup,1982,Semi-finals,8/7/1982,Poland,Italy,0,2,1,cfae1cf061d3,A
+world_cup,1982,Third-place match,10/7/1982,Poland,France,3,2,1,fedf894c2131,H
+world_cup,1982,Final,11/7/1982,Italy,Germany,3,1,1,23bc7b398664,H
+world_cup,1986,Group stage,31/05/1986,Bulgaria,Italy,1,1,1,ee4bb55d8b5b,D
+world_cup,1986,Group stage,1/6/1986,Spain,Brazil,0,1,1,645518dc6bd2,A
+world_cup,1986,Group stage,1/6/1986,Canada,France,0,1,1,5bb3c7f9c2bb,A
+world_cup,1986,Group stage,2/6/1986,Argentina,South Korea,3,1,1,374b0767286c,H
+world_cup,1986,Group stage,2/6/1986,Soviet Union,Hungary,6,0,1,fdb351db6ea3,H
+world_cup,1986,Group stage,2/6/1986,Morocco,Poland,0,0,1,7ba76fe1eaaa,D
+world_cup,1986,Group stage,3/6/1986,Algeria,N. Ireland,1,1,1,d0745039a3e9,D
+world_cup,1986,Group stage,3/6/1986,Belgium,Mexico,1,2,1,33f7f6d9c3ee,A
+world_cup,1986,Group stage,3/6/1986,Portugal,England,1,0,1,f7e21b4286e4,H
+world_cup,1986,Group stage,4/6/1986,Uruguay,Germany,1,1,1,4b6f7120969e,D
+world_cup,1986,Group stage,4/6/1986,Paraguay,Iraq,1,0,1,eca6a141b3fa,H
+world_cup,1986,Group stage,4/6/1986,Scotland,Denmark,0,1,1,39a9729fd3b4,A
+world_cup,1986,Group stage,5/6/1986,France,Soviet Union,1,1,1,399cbf8b08e6,D
+world_cup,1986,Group stage,5/6/1986,Italy,Argentina,1,1,1,02c0c652d813,D
+world_cup,1986,Group stage,5/6/1986,South Korea,Bulgaria,1,1,1,0619bb81f3e2,D
+world_cup,1986,Group stage,6/6/1986,England,Morocco,0,0,1,7d2cf9519abd,D
+world_cup,1986,Group stage,6/6/1986,Hungary,Canada,2,0,1,8ffe54c32959,H
+world_cup,1986,Group stage,6/6/1986,Brazil,Algeria,1,0,1,8a1d78874d62,H
+world_cup,1986,Group stage,7/6/1986,N. Ireland,Spain,1,2,1,51b107893cf4,A
+world_cup,1986,Group stage,7/6/1986,Mexico,Paraguay,1,1,1,98732866250c,D
+world_cup,1986,Group stage,7/6/1986,Poland,Portugal,1,0,1,ea5812b2c274,H
+world_cup,1986,Group stage,8/6/1986,Iraq,Belgium,1,2,1,c6e036e9239e,A
+world_cup,1986,Group stage,8/6/1986,Germany,Scotland,2,1,1,23df65a3ffe1,H
+world_cup,1986,Group stage,8/6/1986,Denmark,Uruguay,6,1,1,6de41824d442,H
+world_cup,1986,Group stage,9/6/1986,Soviet Union,Canada,2,0,1,7dbf879847f6,H
+world_cup,1986,Group stage,9/6/1986,Hungary,France,0,3,1,17fffe721baa,A
+world_cup,1986,Group stage,10/6/1986,Argentina,Bulgaria,2,0,1,583cb49e68f6,H
+world_cup,1986,Group stage,10/6/1986,South Korea,Italy,2,3,1,c7f89a9bec5a,A
+world_cup,1986,Group stage,11/6/1986,England,Poland,3,0,1,05514ea21cf6,H
+world_cup,1986,Group stage,11/6/1986,Portugal,Morocco,1,3,1,b1a799a7fd9e,A
+world_cup,1986,Group stage,11/6/1986,Paraguay,Belgium,2,2,1,854f7af9d306,D
+world_cup,1986,Group stage,11/6/1986,Iraq,Mexico,0,1,1,36ad6d37391e,A
+world_cup,1986,Group stage,12/6/1986,N. Ireland,Brazil,0,3,1,ee3c8b104aeb,A
+world_cup,1986,Group stage,12/6/1986,Algeria,Spain,0,3,1,749f19290c35,A
+world_cup,1986,Group stage,13/06/1986,Scotland,Uruguay,0,0,1,22312d24a85a,D
+world_cup,1986,Group stage,13/06/1986,Denmark,Germany,2,0,1,680732fa9215,H
+world_cup,1986,Round of 16,15/06/1986,Mexico,Bulgaria,2,0,1,31df35620da6,H
+world_cup,1986,Round of 16,15/06/1986,Soviet Union,Belgium,3,4,1,443d7fb5df21,A
+world_cup,1986,Round of 16,16/06/1986,Brazil,Poland,4,0,1,d748123a7fcb,H
+world_cup,1986,Round of 16,16/06/1986,Argentina,Uruguay,1,0,1,021f13472bc5,H
+world_cup,1986,Round of 16,17/06/1986,Italy,France,0,2,1,fee0ccd3eb6f,A
+world_cup,1986,Round of 16,17/06/1986,Morocco,Germany,0,1,1,eaffdc68f228,A
+world_cup,1986,Round of 16,18/06/1986,England,Paraguay,3,0,1,fd0cfac99ed0,H
+world_cup,1986,Round of 16,18/06/1986,Denmark,Spain,1,5,1,7726fc0fa52c,A
+world_cup,1986,Quarter-finals,22/06/1986,Argentina,England,2,1,1,2313ba78f5f4,H
+world_cup,1986,Semi-finals,25/06/1986,France,Germany,0,2,1,730de07e548d,A
+world_cup,1986,Semi-finals,25/06/1986,Argentina,Belgium,2,0,1,6055e02973a9,H
+world_cup,1986,Third-place match,28/06/1986,France,Belgium,4,2,1,e09ae3423a8f,H
+world_cup,1986,Final,29/06/1986,Argentina,Germany,3,2,1,eeb33ed6722a,H
+world_cup,1990,Group stage,8/6/1990,Argentina,Cameroon,0,1,1,d1409847f84b,A
+world_cup,1990,Group stage,9/6/1990,UAE,Colombia,0,2,1,e41f5d5bb22e,A
+world_cup,1990,Group stage,9/6/1990,Soviet Union,Romania,0,2,1,023d16beffd6,A
+world_cup,1990,Group stage,9/6/1990,Italy,Austria,1,0,1,7f13a3ba1a57,H
+world_cup,1990,Group stage,10/6/1990,USA,Czechoslovakia,1,5,1,dc1c5b8ce897,A
+world_cup,1990,Group stage,10/6/1990,Brazil,Sweden,2,1,1,1a1a7fb227a5,H
+world_cup,1990,Group stage,10/6/1990,Germany,Yugoslavia,4,1,1,8a62104b6218,H
+world_cup,1990,Group stage,11/6/1990,Costa Rica,Scotland,1,0,1,b7956dbd7ee4,H
+world_cup,1990,Group stage,11/6/1990,England,Ireland,1,1,1,4ba9d9bef488,D
+world_cup,1990,Group stage,12/6/1990,Belgium,South Korea,2,0,1,7d6836b3e897,H
+world_cup,1990,Group stage,12/6/1990,Netherlands,Egypt,1,1,1,05cb962551a9,D
+world_cup,1990,Group stage,13/06/1990,Uruguay,Spain,0,0,1,8442ed90fefc,D
+world_cup,1990,Group stage,13/06/1990,Argentina,Soviet Union,2,0,1,aea68e5a81d2,H
+world_cup,1990,Group stage,14/06/1990,Italy,USA,1,0,1,5.95E+16,H
+world_cup,1990,Group stage,14/06/1990,Yugoslavia,Colombia,1,0,1,cfa031fcb713,H
+world_cup,1990,Group stage,14/06/1990,Cameroon,Romania,2,1,1,b13dc72577c9,H
+world_cup,1990,Group stage,15/06/1990,Austria,Czechoslovakia,0,1,1,13000ea8c9c0,A
+world_cup,1990,Group stage,15/06/1990,Germany,UAE,5,1,1,d26b4c82c889,H
+world_cup,1990,Group stage,16/06/1990,Brazil,Costa Rica,1,0,1,c82b54101255,H
+world_cup,1990,Group stage,16/06/1990,Sweden,Scotland,1,2,1,361bae513ff7,A
+world_cup,1990,Group stage,16/06/1990,England,Netherlands,0,0,1,dd75480d451e,D
+world_cup,1990,Group stage,17/06/1990,Ireland,Egypt,0,0,1,94483ab2ceab,D
+world_cup,1990,Group stage,17/06/1990,South Korea,Spain,1,3,1,350b5cf090e2,A
+world_cup,1990,Group stage,17/06/1990,Belgium,Uruguay,3,1,1,0a139f4b53a3,H
+world_cup,1990,Group stage,18/06/1990,Cameroon,Soviet Union,0,4,1,153d78faac5d,A
+world_cup,1990,Group stage,18/06/1990,Argentina,Romania,1,1,1,1da2a25c5b7e,D
+world_cup,1990,Group stage,19/06/1990,Germany,Colombia,1,1,1,f0adb7e73246,D
+world_cup,1990,Group stage,19/06/1990,Yugoslavia,UAE,4,1,1,841ea55faada,H
+world_cup,1990,Group stage,19/06/1990,Austria,USA,2,1,1,e40530457c0a,H
+world_cup,1990,Group stage,19/06/1990,Italy,Czechoslovakia,2,0,1,34a567b60896,H
+world_cup,1990,Group stage,20/06/1990,Brazil,Scotland,1,0,1,fe1f4eca16f1,H
+world_cup,1990,Group stage,20/06/1990,Sweden,Costa Rica,1,2,1,189dec165428,A
+world_cup,1990,Group stage,21/06/1990,Belgium,Spain,1,2,1,3a005cf86ef0,A
+world_cup,1990,Group stage,21/06/1990,South Korea,Uruguay,0,1,1,ae757429823c,A
+world_cup,1990,Group stage,21/06/1990,England,Egypt,1,0,1,71e8800b5229,H
+world_cup,1990,Group stage,21/06/1990,Ireland,Netherlands,1,1,1,6d481079ad25,D
+world_cup,1990,Round of 16,23/06/1990,Cameroon,Colombia,2,1,1,1a1c76c711db,H
+world_cup,1990,Round of 16,23/06/1990,Czechoslovakia,Costa Rica,4,1,1,a1bff33fe8e7,H
+world_cup,1990,Round of 16,24/06/1990,Brazil,Argentina,0,1,1,e20f11f3f009,A
+world_cup,1990,Round of 16,24/06/1990,Germany,Netherlands,2,1,1,81d29f817a7f,H
+world_cup,1990,Round of 16,25/06/1990,Italy,Uruguay,2,0,1,6d2a5efe3d05,H
+world_cup,1990,Round of 16,26/06/1990,Spain,Yugoslavia,1,2,1,45e4a9c20946,A
+world_cup,1990,Round of 16,26/06/1990,England,Belgium,1,0,1,9be216c18338,H
+world_cup,1990,Quarter-finals,30/06/1990,Italy,Ireland,1,0,1,e82db4dba5e7,H
+world_cup,1990,Quarter-finals,1/7/1990,Germany,Czechoslovakia,1,0,1,d11751b1adc5,H
+world_cup,1990,Quarter-finals,1/7/1990,England,Cameroon,3,2,1,368d9f4a8cac,H
+world_cup,1990,Third-place match,7/7/1990,Italy,England,2,1,1,4b587c9bf445,H
+world_cup,1990,Final,8/7/1990,Germany,Argentina,1,0,1,2cc75ffa7d7e,H
+world_cup,1994,Group stage,17/06/1994,Germany,Bolivia,1,0,1,8173902accfe,H
+world_cup,1994,Group stage,17/06/1994,Spain,South Korea,2,2,1,bb320ccd4ee9,D
+world_cup,1994,Group stage,18/06/1994,Colombia,Romania,1,3,1,d22641099d0d,A
+world_cup,1994,Group stage,18/06/1994,USA,Switzerland,1,1,1,ffcafce3fd51,D
+world_cup,1994,Group stage,18/06/1994,Italy,Ireland,0,1,1,cbb19729ea59,A
+world_cup,1994,Group stage,19/06/1994,Belgium,Morocco,1,0,1,177db1059738,H
+world_cup,1994,Group stage,19/06/1994,Norway,Mexico,1,0,1,86545c1b9329,H
+world_cup,1994,Group stage,19/06/1994,Cameroon,Sweden,2,2,1,829b00497186,D
+world_cup,1994,Group stage,20/06/1994,Netherlands,Saudi Arabia,2,1,1,c05e9e9bba4d,H
+world_cup,1994,Group stage,20/06/1994,Brazil,Russia,2,0,1,bffce93361e9,H
+world_cup,1994,Group stage,21/06/1994,Argentina,Greece,4,0,1,6100ef7c75c5,H
+world_cup,1994,Group stage,21/06/1994,Germany,Spain,1,1,1,cf94a87148bd,D
+world_cup,1994,Group stage,21/06/1994,Nigeria,Bulgaria,3,0,1,9c96df53b7be,H
+world_cup,1994,Group stage,22/06/1994,Romania,Switzerland,1,4,1,e6ad09a08a04,A
+world_cup,1994,Group stage,22/06/1994,USA,Colombia,2,1,1,de381f8e8e74,H
+world_cup,1994,Group stage,23/06/1994,Italy,Norway,1,0,1,5d4a39a2b9d6,H
+world_cup,1994,Group stage,23/06/1994,South Korea,Bolivia,0,0,1,dca985c1b230,D
+world_cup,1994,Group stage,24/06/1994,Mexico,Ireland,2,1,1,e3ad8be3d8b4,H
+world_cup,1994,Group stage,24/06/1994,Brazil,Cameroon,3,0,1,e346ea5a9c55,H
+world_cup,1994,Group stage,24/06/1994,Sweden,Russia,3,1,1,9b090d058eb9,H
+world_cup,1994,Group stage,25/06/1994,Saudi Arabia,Morocco,2,1,1,39e1487c1e8c,H
+world_cup,1994,Group stage,25/06/1994,Argentina,Nigeria,2,1,1,0681bac11787,H
+world_cup,1994,Group stage,25/06/1994,Belgium,Netherlands,1,0,1,68535618667,H
+world_cup,1994,Group stage,26/06/1994,Switzerland,Colombia,0,2,1,d2250e86a002,A
+world_cup,1994,Group stage,26/06/1994,USA,Romania,0,1,1,73c2a229eec7,A
+world_cup,1994,Group stage,26/06/1994,Bulgaria,Greece,4,0,1,429d2de5c82c,H
+world_cup,1994,Group stage,27/06/1994,Bolivia,Spain,1,3,1,6955e1543929,A
+world_cup,1994,Group stage,27/06/1994,Germany,South Korea,3,2,1,0f982969b689,H
+world_cup,1994,Group stage,28/06/1994,Russia,Cameroon,6,1,1,c7d369cddf20,H
+world_cup,1994,Group stage,28/06/1994,Brazil,Sweden,1,1,1,247f4cd70469,D
+world_cup,1994,Group stage,28/06/1994,Italy,Mexico,1,1,1,f2eec9fabf56,D
+world_cup,1994,Group stage,28/06/1994,Ireland,Norway,0,0,1,2355154e68e2,D
+world_cup,1994,Group stage,29/06/1994,Morocco,Netherlands,1,2,1,8ac677636633,A
+world_cup,1994,Group stage,29/06/1994,Belgium,Saudi Arabia,0,1,1,6d3e6ffeaa00,A
+world_cup,1994,Group stage,30/06/1994,Argentina,Bulgaria,0,2,1,2c920b17b70d,A
+world_cup,1994,Group stage,30/06/1994,Greece,Nigeria,0,2,1,945c1c9d7753,A
+world_cup,1994,Round of 16,2/7/1994,Spain,Switzerland,3,0,1,986b1996fb01,H
+world_cup,1994,Round of 16,2/7/1994,Germany,Belgium,3,2,1,75ae9554a5d5,H
+world_cup,1994,Round of 16,3/7/1994,Romania,Argentina,3,2,1,2267166bdf92,H
+world_cup,1994,Round of 16,3/7/1994,Saudi Arabia,Sweden,1,3,1,25720f21f8af,A
+world_cup,1994,Round of 16,4/7/1994,Netherlands,Ireland,2,0,1,0f25b6e51e7e,H
+world_cup,1994,Round of 16,4/7/1994,Brazil,USA,1,0,1,8e6bc68c79dc,H
+world_cup,1994,Round of 16,5/7/1994,Nigeria,Italy,1,2,1,a0f4aa4d0b58,A
+world_cup,1994,Quarter-finals,9/7/1994,Italy,Spain,2,1,1,0232aa82ffd4,H
+world_cup,1994,Quarter-finals,9/7/1994,Netherlands,Brazil,2,3,1,d92045fbbce2,A
+world_cup,1994,Quarter-finals,10/7/1994,Bulgaria,Germany,2,1,1,691742ccf22e,H
+world_cup,1994,Semi-finals,13/07/1994,Bulgaria,Italy,1,2,1,52ce76bfdfda,A
+world_cup,1994,Semi-finals,13/07/1994,Sweden,Brazil,0,1,1,85c6388aef48,A
+world_cup,1994,Third-place match,16/07/1994,Sweden,Bulgaria,4,0,1,084e62f7a4ee,H
+world_cup,1998,Group stage,10/6/1998,Brazil,Scotland,2,1,1,151b8da13f8e,H
+world_cup,1998,Group stage,10/6/1998,Morocco,Norway,2,2,1,1f6a9f54cdd7,D
+world_cup,1998,Group stage,11/6/1998,Cameroon,Austria,1,1,1,db9f4ea3d74b,D
+world_cup,1998,Group stage,11/6/1998,Italy,Chile,2,2,1,991c0f0962fe,D
+world_cup,1998,Group stage,12/6/1998,France,South Africa,3,0,1,4278e125a184,H
+world_cup,1998,Group stage,12/6/1998,Saudi Arabia,Denmark,0,1,1,593be0c359a5,A
+world_cup,1998,Group stage,12/6/1998,Paraguay,Bulgaria,0,0,1,a24294c5fa3b,D
+world_cup,1998,Group stage,13/06/1998,Netherlands,Belgium,0,0,1,842a751509fa,D
+world_cup,1998,Group stage,13/06/1998,South Korea,Mexico,1,3,1,ff0b36f8dd23,A
+world_cup,1998,Group stage,13/06/1998,Spain,Nigeria,2,3,1,f55e31955eda,A
+world_cup,1998,Group stage,14/06/1998,Jamaica,Croatia,1,3,1,10237c978196,A
+world_cup,1998,Group stage,14/06/1998,Yugoslavia,Iran,1,0,1,54ef50e52fdb,H
+world_cup,1998,Group stage,14/06/1998,Argentina,Japan,1,0,1,f9f3448cdb7c,H
+world_cup,1998,Group stage,15/06/1998,Romania,Colombia,1,0,1,3dc0ba95abce,H
+world_cup,1998,Group stage,15/06/1998,Germany,USA,2,0,1,96a30782ec20,H
+world_cup,1998,Group stage,15/06/1998,England,Tunisia,2,0,1,c80d917c0d71,H
+world_cup,1998,Group stage,16/06/1998,Scotland,Norway,1,1,1,736b55ddc665,D
+world_cup,1998,Group stage,16/06/1998,Brazil,Morocco,3,0,1,b380133806f3,H
+world_cup,1998,Group stage,17/06/1998,Chile,Austria,1,1,1,406ca0d22949,D
+world_cup,1998,Group stage,17/06/1998,Italy,Cameroon,3,0,1,ae1504419839,H
+world_cup,1998,Group stage,18/06/1998,South Africa,Denmark,1,1,1,dbfd225fb38f,D
+world_cup,1998,Group stage,18/06/1998,France,Saudi Arabia,4,0,1,75085df62ad4,H
+world_cup,1998,Group stage,19/06/1998,Nigeria,Bulgaria,1,0,1,13f7ec27447e,H
+world_cup,1998,Group stage,19/06/1998,Spain,Paraguay,0,0,1,a5f65f0d3865,D
+world_cup,1998,Group stage,20/06/1998,Netherlands,South Korea,5,0,1,7e001690d5f6,H
+world_cup,1998,Group stage,20/06/1998,Belgium,Mexico,2,2,1,9edccd23b930,D
+world_cup,1998,Group stage,20/06/1998,Japan,Croatia,0,1,1,d22b169af525,A
+world_cup,1998,Group stage,21/06/1998,USA,Iran,1,2,1,86af1c0274da,A
+world_cup,1998,Group stage,21/06/1998,Argentina,Jamaica,5,0,1,3f5fac8bbe77,H
+world_cup,1998,Group stage,21/06/1998,Germany,Yugoslavia,2,2,1,1df608483372,D
+world_cup,1998,Group stage,22/06/1998,Colombia,Tunisia,1,0,1,b0f4c39c2e58,H
+world_cup,1998,Group stage,22/06/1998,Romania,England,2,1,1,93d2a68216a3,H
+world_cup,1998,Group stage,23/06/1998,Chile,Cameroon,1,1,1,6d032c60f577,D
+world_cup,1998,Group stage,23/06/1998,Brazil,Norway,1,2,1,0fc764f6ddf0,A
+world_cup,1998,Group stage,23/06/1998,Italy,Austria,2,1,1,5ae24cefd55f,H
+world_cup,1998,Group stage,23/06/1998,Scotland,Morocco,0,3,1,29ca6363aa57,A
+world_cup,1998,Group stage,24/06/1998,Spain,Bulgaria,6,1,1,5885eb6c38f4,H
+world_cup,1998,Group stage,24/06/1998,South Africa,Saudi Arabia,2,2,1,30022d48b271,D
+world_cup,1998,Group stage,24/06/1998,France,Denmark,2,1,1,941c6e1a0008,H
+world_cup,1998,Group stage,24/06/1998,Nigeria,Paraguay,1,3,1,44452f551dd4,A
+world_cup,1998,Group stage,25/06/1998,Netherlands,Mexico,2,2,1,cab4e9bbaac7,D
+world_cup,1998,Group stage,25/06/1998,Belgium,South Korea,1,1,1,f660d8cca87a,D
+world_cup,1998,Group stage,25/06/1998,USA,Yugoslavia,0,1,1,b9da1235b755,A
+world_cup,1998,Group stage,25/06/1998,Germany,Iran,2,0,1,1f3f563a4df9,H
+world_cup,1998,Group stage,26/06/1998,Romania,Tunisia,1,1,1,7.43E+16,D
+world_cup,1998,Group stage,26/06/1998,Japan,Jamaica,1,2,1,4421e3af3afc,A
+world_cup,1998,Group stage,26/06/1998,Argentina,Croatia,1,0,1,27857e859367,H
+world_cup,1998,Group stage,26/06/1998,Colombia,England,0,2,1,5d064489c0db,A
+world_cup,1998,Round of 16,27/06/1998,Italy,Norway,1,0,1,1f623ef5133b,H
+world_cup,1998,Round of 16,27/06/1998,Brazil,Chile,4,1,1,d074b6230c43,H
+world_cup,1998,Round of 16,28/06/1998,France,Paraguay,1,0,1,26a7969c366b,H
+world_cup,1998,Round of 16,28/06/1998,Nigeria,Denmark,1,4,1,6c4f6c675eb0,A
+world_cup,1998,Round of 16,29/06/1998,Netherlands,Yugoslavia,2,1,1,2689829bb807,H
+world_cup,1998,Round of 16,29/06/1998,Germany,Mexico,2,1,1,062bb6d3ec26,H
+world_cup,1998,Round of 16,30/06/1998,Romania,Croatia,0,1,1,9bdc3f3f0a9c,A
+world_cup,1998,Quarter-finals,3/7/1998,Brazil,Denmark,3,2,1,6a4c13b0dfb2,H
+world_cup,1998,Quarter-finals,4/7/1998,Germany,Croatia,0,3,1,3511f6e93362,A
+world_cup,1998,Quarter-finals,4/7/1998,Netherlands,Argentina,2,1,1,7d4c12d37b35,H
+world_cup,1998,Semi-finals,8/7/1998,France,Croatia,2,1,1,1adaeefcf630,H
+world_cup,1998,Third-place match,11/7/1998,Netherlands,Croatia,1,2,1,357c91d77754,A
+world_cup,1998,Final,12/7/1998,Brazil,France,0,3,1,53adeb78d541,A
+world_cup,2002,Group stage,31/05/2002,France,Senegal,0,1,1,18aee3dbbf32,A
+world_cup,2002,Group stage,1/6/2002,Ireland,Cameroon,1,1,1,2df1db920341,D
+world_cup,2002,Group stage,1/6/2002,Germany,Saudi Arabia,8,0,1,d83339bd64d9,H
+world_cup,2002,Group stage,1/6/2002,Uruguay,Denmark,1,2,1,cd86d9cb6f74,A
+world_cup,2002,Group stage,2/6/2002,Spain,Slovenia,3,1,1,8964f7d3d5a5,H
+world_cup,2002,Group stage,2/6/2002,England,Sweden,1,1,1,1011cb43d3c8,D
+world_cup,2002,Group stage,2/6/2002,Paraguay,South Africa,2,2,1,d04f5a8529ad,D
+world_cup,2002,Group stage,2/6/2002,Argentina,Nigeria,1,0,1,f1196b76a6ff,H
+world_cup,2002,Group stage,3/6/2002,Brazil,Turkey,2,1,1,08efa1627fe3,H
+world_cup,2002,Group stage,3/6/2002,Croatia,Mexico,0,1,1,a027fa92bffa,A
+world_cup,2002,Group stage,3/6/2002,Italy,Ecuador,2,0,1,6132619d9b92,H
+world_cup,2002,Group stage,4/6/2002,South Korea,Poland,2,0,1,4e843b8e49a7,H
+world_cup,2002,Group stage,4/6/2002,China,Costa Rica,0,2,1,db2593ffeea3,A
+world_cup,2002,Group stage,4/6/2002,Japan,Belgium,2,2,1,29ed6a45dde1,D
+world_cup,2002,Group stage,5/6/2002,USA,Portugal,3,2,1,45cf27b96b44,H
+world_cup,2002,Group stage,5/6/2002,Germany,Ireland,1,1,1,e95487975327,D
+world_cup,2002,Group stage,5/6/2002,Russia,Tunisia,2,0,1,c570e1823f3e,H
+world_cup,2002,Group stage,6/6/2002,Denmark,Senegal,1,1,1,eab193346610,D
+world_cup,2002,Group stage,6/6/2002,Cameroon,Saudi Arabia,1,0,1,f724f691701d,H
+world_cup,2002,Group stage,6/6/2002,France,Uruguay,0,0,1,da34c3102116,D
+world_cup,2002,Group stage,7/6/2002,Argentina,England,0,1,1,5e2679e3d4ee,A
+world_cup,2002,Group stage,7/6/2002,Sweden,Nigeria,2,1,1,edf0602d838f,H
+world_cup,2002,Group stage,7/6/2002,Spain,Paraguay,3,1,1,7d73ff39c1c2,H
+world_cup,2002,Group stage,8/6/2002,South Africa,Slovenia,1,0,1,c7cc2d69c146,H
+world_cup,2002,Group stage,8/6/2002,Italy,Croatia,1,2,1,365c5d196d1e,A
+world_cup,2002,Group stage,8/6/2002,Brazil,China,4,0,1,b95048ef7690,H
+world_cup,2002,Group stage,9/6/2002,Mexico,Ecuador,2,1,1,ce8943081b59,H
+world_cup,2002,Group stage,9/6/2002,Japan,Russia,1,0,1,489855206f8f,H
+world_cup,2002,Group stage,9/6/2002,Costa Rica,Turkey,1,1,1,f3d22a3013fe,D
+world_cup,2002,Group stage,10/6/2002,South Korea,USA,1,1,1,cb3145311085,D
+world_cup,2002,Group stage,10/6/2002,Tunisia,Belgium,1,1,1,bd6f23f37884,D
+world_cup,2002,Group stage,10/6/2002,Portugal,Poland,4,0,1,260f31ae9413,H
+world_cup,2002,Group stage,11/6/2002,Senegal,Uruguay,3,3,1,b37cf221e9e3,D
+world_cup,2002,Group stage,11/6/2002,Denmark,France,2,0,1,3db34aa1d7cc,H
+world_cup,2002,Group stage,11/6/2002,Cameroon,Germany,0,2,1,12bdf191fb63,A
+world_cup,2002,Group stage,11/6/2002,Saudi Arabia,Ireland,0,3,1,1117a23f8d49,A
+world_cup,2002,Group stage,12/6/2002,Nigeria,England,0,0,1,09aa9b79005c,D
+world_cup,2002,Group stage,12/6/2002,Sweden,Argentina,1,1,1,4.21E+16,D
+world_cup,2002,Group stage,12/6/2002,South Africa,Spain,2,3,1,18a28702e9e6,A
+world_cup,2002,Group stage,12/6/2002,Slovenia,Paraguay,1,3,1,8d0c1bb1da74,A
+world_cup,2002,Group stage,13/06/2002,Costa Rica,Brazil,2,5,1,689d016be0ed,A
+world_cup,2002,Group stage,13/06/2002,Ecuador,Croatia,1,0,1,a42e7eece1f9,H
+world_cup,2002,Group stage,13/06/2002,Mexico,Italy,1,1,1,664f088684f3,D
+world_cup,2002,Group stage,13/06/2002,Turkey,China,3,0,1,9920be1ef7d5,H
+world_cup,2002,Group stage,14/06/2002,Tunisia,Japan,0,2,1,85eec841aecd,A
+world_cup,2002,Group stage,14/06/2002,Belgium,Russia,3,2,1,dd062cddaf15,H
+world_cup,2002,Group stage,14/06/2002,Poland,USA,3,1,1,f40149dfbb47,H
+world_cup,2002,Group stage,14/06/2002,Portugal,South Korea,0,1,1,3981644f73b8,A
+world_cup,2002,Round of 16,15/06/2002,Germany,Paraguay,1,0,1,ee40e623c8f6,H
+world_cup,2002,Round of 16,15/06/2002,Denmark,England,0,3,1,d94e85028563,A
+world_cup,2002,Round of 16,16/06/2002,Sweden,Senegal,1,2,1,c997e97833d5,A
+world_cup,2002,Round of 16,17/06/2002,Brazil,Belgium,2,0,1,b42e570a79ef,H
+world_cup,2002,Round of 16,17/06/2002,Mexico,USA,0,2,1,e4a9d22a9abf,A
+world_cup,2002,Round of 16,18/06/2002,Japan,Turkey,0,1,1,0f805ee98576,A
+world_cup,2002,Round of 16,18/06/2002,South Korea,Italy,2,1,1,1f0725e6df05,H
+world_cup,2002,Quarter-finals,21/06/2002,England,Brazil,1,2,1,e3ecb0459afa,A
+world_cup,2002,Quarter-finals,21/06/2002,Germany,USA,1,0,1,30f4408bd197,H
+world_cup,2002,Quarter-finals,22/06/2002,Senegal,Turkey,0,1,1,f809782ee6e7,A
+world_cup,2002,Semi-finals,25/06/2002,Germany,South Korea,1,0,1,90465a8f1de7,H
+world_cup,2002,Semi-finals,26/06/2002,Brazil,Turkey,1,0,1,2f5755b79c4e,H
+world_cup,2002,Third-place match,29/06/2002,South Korea,Turkey,2,3,1,ad63bb3dc718,A
+world_cup,2002,Final,30/06/2002,Germany,Brazil,0,2,1,b0ecdfca3053,A
+world_cup,2006,Group stage,9/6/2006,Germany,Costa Rica,4,2,1,3c951ecf09f1,H
+world_cup,2006,Group stage,9/6/2006,Poland,Ecuador,0,2,1,0cc2c7d03774,A
+world_cup,2006,Group stage,10/6/2006,Trin & Tobago,Sweden,0,0,1,6c1c994338a1,D
+world_cup,2006,Group stage,10/6/2006,England,Paraguay,1,0,1,d2178a42099f,H
+world_cup,2006,Group stage,10/6/2006,Argentina,Ivory Coast,2,1,1,924cc70854da,H
+world_cup,2006,Group stage,11/6/2006,Mexico,Iran,3,1,1,a6d024d14772,H
+world_cup,2006,Group stage,11/6/2006,Angola,Portugal,0,1,1,025349dfb204,A
+world_cup,2006,Group stage,11/6/2006,Serbia & Montenegro,Netherlands,0,1,1,7d5c91800f19,A
+world_cup,2006,Group stage,12/6/2006,Australia,Japan,3,1,1,74121c8493f5,H
+world_cup,2006,Group stage,12/6/2006,USA,Czech Republic,0,3,1,4e3ee4cf50c0,A
+world_cup,2006,Group stage,12/6/2006,Italy,Ghana,2,0,1,d9e718829d08,H
+world_cup,2006,Group stage,13/06/2006,South Korea,Togo,2,1,1,90bcada0168f,H
+world_cup,2006,Group stage,13/06/2006,France,Switzerland,0,0,1,f9a12b6a7d6b,D
+world_cup,2006,Group stage,13/06/2006,Brazil,Croatia,1,0,1,32429b4a37f0,H
+world_cup,2006,Group stage,14/06/2006,Spain,Ukraine,4,0,1,2e8a7a246f83,H
+world_cup,2006,Group stage,14/06/2006,Tunisia,Saudi Arabia,2,2,1,496c1554e955,D
+world_cup,2006,Group stage,14/06/2006,Germany,Poland,1,0,1,19a8466140e1,H
+world_cup,2006,Group stage,15/06/2006,Ecuador,Costa Rica,3,0,1,42c9115f46bc,H
+world_cup,2006,Group stage,15/06/2006,England,Trin & Tobago,2,0,1,6e51ee278ed5,H
+world_cup,2006,Group stage,15/06/2006,Sweden,Paraguay,1,0,1,4b96b53ee1c2,H
+world_cup,2006,Group stage,16/06/2006,Mexico,Angola,0,0,1,c4bd9b540bf9,D
+world_cup,2006,Group stage,16/06/2006,Netherlands,Ivory Coast,2,1,1,96b7630d4b44,H
+world_cup,2006,Group stage,16/06/2006,Argentina,Serbia & Montenegro,6,0,1,7bfb41f8aba5,H
+world_cup,2006,Group stage,17/06/2006,Italy,USA,1,1,1,0fd63e505e8a,D
+world_cup,2006,Group stage,17/06/2006,Portugal,Iran,2,0,1,b705df6e808f,H
+world_cup,2006,Group stage,17/06/2006,Czech Republic,Ghana,0,2,1,af8ca9919d91,A
+world_cup,2006,Group stage,18/06/2006,France,South Korea,1,1,1,216b6233d179,D
+world_cup,2006,Group stage,18/06/2006,Brazil,Australia,2,0,1,60e5d6b99b64,H
+world_cup,2006,Group stage,18/06/2006,Japan,Croatia,0,0,1,9f53ee243333,D
+world_cup,2006,Group stage,19/06/2006,Spain,Tunisia,3,1,1,46ba7439c7ef,H
+world_cup,2006,Group stage,19/06/2006,Saudi Arabia,Ukraine,0,4,1,91f9788d3297,A
+world_cup,2006,Group stage,19/06/2006,Togo,Switzerland,0,2,1,2240b21360fb,A
+world_cup,2006,Group stage,20/06/2006,Paraguay,Trin & Tobago,2,0,1,b53f98cd2856,H
+world_cup,2006,Group stage,20/06/2006,Ecuador,Germany,0,3,1,bbd251053497,A
+world_cup,2006,Group stage,20/06/2006,Costa Rica,Poland,1,2,1,e0b2746a7bf8,A
+world_cup,2006,Group stage,20/06/2006,Sweden,England,2,2,1,8d88a34e5bca,D
+world_cup,2006,Group stage,21/06/2006,Netherlands,Argentina,0,0,1,a829555a98fa,D
+world_cup,2006,Group stage,21/06/2006,Iran,Angola,1,1,1,715e0103940a,D
+world_cup,2006,Group stage,21/06/2006,Portugal,Mexico,2,1,1,6f80abf52be6,H
+world_cup,2006,Group stage,21/06/2006,Ivory Coast,Serbia & Montenegro,3,2,1,61ecd0177716,H
+world_cup,2006,Group stage,22/06/2006,Czech Republic,Italy,0,2,1,3ed50ee7c38b,A
+world_cup,2006,Group stage,22/06/2006,Ghana,USA,2,1,1,b832967e609c,H
+world_cup,2006,Group stage,22/06/2006,Japan,Brazil,1,4,1,f456c278698e,A
+world_cup,2006,Group stage,22/06/2006,Croatia,Australia,2,2,1,8fc2cad7e395,D
+world_cup,2006,Group stage,23/06/2006,Togo,France,0,2,1,923e204b804e,A
+world_cup,2006,Group stage,23/06/2006,Saudi Arabia,Spain,0,1,1,4a9b17156705,A
+world_cup,2006,Group stage,23/06/2006,Ukraine,Tunisia,1,0,1,613bc52073dc,H
+world_cup,2006,Group stage,23/06/2006,Switzerland,South Korea,2,0,1,c34882b3a4c3,H
+world_cup,2006,Round of 16,24/06/2006,Germany,Sweden,2,0,1,2563d60091e1,H
+world_cup,2006,Round of 16,24/06/2006,Argentina,Mexico,2,1,1,c282120ef320,H
+world_cup,2006,Round of 16,25/06/2006,England,Ecuador,1,0,1,5dc4963794e2,H
+world_cup,2006,Round of 16,25/06/2006,Portugal,Netherlands,1,0,1,a9591546ead2,H
+world_cup,2006,Round of 16,26/06/2006,Italy,Australia,1,0,1,706665a901f5,H
+world_cup,2006,Round of 16,27/06/2006,Brazil,Ghana,3,0,1,9621f9176194,H
+world_cup,2006,Round of 16,27/06/2006,Spain,France,1,3,1,146da7af7715,A
+world_cup,2006,Quarter-finals,30/06/2006,Italy,Ukraine,3,0,1,61f39082e938,H
+world_cup,2006,Quarter-finals,1/7/2006,Brazil,France,0,1,1,b923ca3864cf,A
+world_cup,2006,Semi-finals,4/7/2006,Germany,Italy,0,2,1,78d5eda6bca1,A
+world_cup,2006,Semi-finals,5/7/2006,Portugal,France,0,1,1,4a85d352ba0d,A
+world_cup,2006,Third-place match,8/7/2006,Germany,Portugal,3,1,1,0fff88122b95,H
+world_cup,2010,Group stage,11/6/2010,South Africa,Mexico,1,1,1,c7ab4b2babc3,D
+world_cup,2010,Group stage,11/6/2010,Uruguay,France,0,0,1,135dcad7dc0b,D
+world_cup,2010,Group stage,12/6/2010,South Korea,Greece,2,0,1,29349da30ca9,H
+world_cup,2010,Group stage,12/6/2010,Argentina,Nigeria,1,0,1,3fe7acc84d65,H
+world_cup,2010,Group stage,12/6/2010,England,USA,1,1,1,b1cad1b0f080,D
+world_cup,2010,Group stage,13/06/2010,Serbia,Ghana,0,1,1,9a29d43da0cc,A
+world_cup,2010,Group stage,13/06/2010,Algeria,Slovenia,0,1,1,e66e03e9e42e,A
+world_cup,2010,Group stage,13/06/2010,Germany,Australia,4,0,1,979c22272c82,H
+world_cup,2010,Group stage,14/06/2010,Italy,Paraguay,1,1,1,80f734abb9ee,D
+world_cup,2010,Group stage,14/06/2010,Japan,Cameroon,1,0,1,680918ecf674,H
+world_cup,2010,Group stage,14/06/2010,Netherlands,Denmark,2,0,1,cfb972df36f7,H
+world_cup,2010,Group stage,15/06/2010,New Zealand,Slovakia,1,1,1,2686ee9898be,D
+world_cup,2010,Group stage,15/06/2010,Ivory Coast,Portugal,0,0,1,89edf342033d,D
+world_cup,2010,Group stage,15/06/2010,Brazil,North Korea,2,1,1,8e8eb1e6847c,H
+world_cup,2010,Group stage,16/06/2010,South Africa,Uruguay,0,3,1,34fce56432a2,A
+world_cup,2010,Group stage,16/06/2010,Honduras,Chile,0,1,1,5192bc1f6a62,A
+world_cup,2010,Group stage,16/06/2010,Spain,Switzerland,0,1,1,8f81218933c3,A
+world_cup,2010,Group stage,17/06/2010,Greece,Nigeria,2,1,1,67f93e7749ae,H
+world_cup,2010,Group stage,17/06/2010,Argentina,South Korea,4,1,1,3447743a3bfc,H
+world_cup,2010,Group stage,17/06/2010,France,Mexico,0,2,1,d9fa4965da8f,A
+world_cup,2010,Group stage,18/06/2010,Germany,Serbia,0,1,1,f405df520af6,A
+world_cup,2010,Group stage,18/06/2010,England,Algeria,0,0,1,a6c6cdf28fbd,D
+world_cup,2010,Group stage,18/06/2010,Slovenia,USA,2,2,1,5ba1de436999,D
+world_cup,2010,Group stage,19/06/2010,Netherlands,Japan,1,0,1,d2078b2c81ea,H
+world_cup,2010,Group stage,19/06/2010,Cameroon,Denmark,1,2,1,57cd12e506e7,A
+world_cup,2010,Group stage,19/06/2010,Ghana,Australia,1,1,1,acbe7c13e456,D
+world_cup,2010,Group stage,20/06/2010,Brazil,Ivory Coast,3,1,1,7156ed8c2f6e,H
+world_cup,2010,Group stage,20/06/2010,Italy,New Zealand,1,1,1,a41dbf0d3728,D
+world_cup,2010,Group stage,20/06/2010,Slovakia,Paraguay,0,2,1,381954fe5a18,A
+world_cup,2010,Group stage,21/06/2010,Spain,Honduras,2,0,1,c79a5576782d,H
+world_cup,2010,Group stage,21/06/2010,Chile,Switzerland,1,0,1,4ae903d1e044,H
+world_cup,2010,Group stage,21/06/2010,Portugal,North Korea,7,0,1,9d0619a732f9,H
+world_cup,2010,Group stage,22/06/2010,Greece,Argentina,0,2,1,3f191225743a,A
+world_cup,2010,Group stage,22/06/2010,Nigeria,South Korea,2,2,1,d603f203edb4,D
+world_cup,2010,Group stage,22/06/2010,Mexico,Uruguay,0,1,1,5e7869f0dd68,A
+world_cup,2010,Group stage,22/06/2010,France,South Africa,1,2,1,046f49c53eae,A
+world_cup,2010,Group stage,23/06/2010,Slovenia,England,0,1,1,7e890345419c,A
+world_cup,2010,Group stage,23/06/2010,Ghana,Germany,0,1,1,379982a9575a,A
+world_cup,2010,Group stage,23/06/2010,Australia,Serbia,2,1,1,49b33986d6cd,H
+world_cup,2010,Group stage,23/06/2010,USA,Algeria,1,0,1,1bfeaa4a209d,H
+world_cup,2010,Group stage,24/06/2010,Denmark,Japan,1,3,1,e5efdbfac840,A
+world_cup,2010,Group stage,24/06/2010,Slovakia,Italy,3,2,1,99caf1979875,H
+world_cup,2010,Group stage,24/06/2010,Paraguay,New Zealand,0,0,1,db44b8bf4859,D
+world_cup,2010,Group stage,24/06/2010,Cameroon,Netherlands,1,2,1,83aefdd5d662,A
+world_cup,2010,Group stage,25/06/2010,Portugal,Brazil,0,0,1,525e0d6b4977,D
+world_cup,2010,Group stage,25/06/2010,North Korea,Ivory Coast,0,3,1,82689441d2b1,A
+world_cup,2010,Group stage,25/06/2010,Switzerland,Honduras,0,0,1,963a9b92ba11,D
+world_cup,2010,Group stage,25/06/2010,Chile,Spain,1,2,1,07a0b151bba4,A
+world_cup,2010,Round of 16,26/06/2010,USA,Ghana,1,2,1,48a695dc4008,A
+world_cup,2010,Round of 16,26/06/2010,Uruguay,South Korea,2,1,1,67d29f4b1906,H
+world_cup,2010,Round of 16,27/06/2010,Argentina,Mexico,3,1,1,0b8ba2505eac,H
+world_cup,2010,Round of 16,27/06/2010,Germany,England,4,1,1,b5a625a727c3,H
+world_cup,2010,Round of 16,28/06/2010,Netherlands,Slovakia,2,1,1,3ff5e037b8ab,H
+world_cup,2010,Round of 16,28/06/2010,Brazil,Chile,3,0,1,dac014babef1,H
+world_cup,2010,Round of 16,29/06/2010,Paraguay,Japan,0,0,1,b838c19131bf,D
+world_cup,2010,Round of 16,29/06/2010,Spain,Portugal,1,0,1,67d7a001de48,H
+world_cup,2010,Quarter-finals,2/7/2010,Netherlands,Brazil,2,1,1,0676ae24df6d,H
+world_cup,2010,Quarter-finals,2/7/2010,Uruguay,Ghana,1,1,1,0917b818d952,D
+world_cup,2010,Quarter-finals,3/7/2010,Paraguay,Spain,0,1,1,8781089d888d,A
+world_cup,2010,Quarter-finals,3/7/2010,Argentina,Germany,0,4,1,08be800bdc48,A
+world_cup,2010,Semi-finals,6/7/2010,Uruguay,Netherlands,2,3,1,11a234ab0360,A
+world_cup,2010,Semi-finals,7/7/2010,Germany,Spain,0,1,1,c8a044291e5b,A
+world_cup,2010,Third-place match,10/7/2010,Uruguay,Germany,2,3,1,bec7f0e978bf,A
+world_cup,2010,Final,11/7/2010,Netherlands,Spain,0,1,1,4458b922360f,A
+world_cup,2014,Group stage,12/6/2014,Brazil,Croatia,3,1,1,a4daf1872953,H
+world_cup,2014,Group stage,13/06/2014,Chile,Australia,3,1,1,0278c3bce409,H
+world_cup,2014,Group stage,13/06/2014,Spain,Netherlands,1,5,1,ae51cba11b53,A
+world_cup,2014,Group stage,13/06/2014,Mexico,Cameroon,1,0,1,0e70514f0b4a,H
+world_cup,2014,Group stage,14/06/2014,Colombia,Greece,3,0,1,71313648570a,H
+world_cup,2014,Group stage,14/06/2014,Uruguay,Costa Rica,1,3,1,8f154dca9c7f,A
+world_cup,2014,Group stage,14/06/2014,England,Italy,1,2,1,5744c84ef0ca,A
+world_cup,2014,Group stage,14/06/2014,Ivory Coast,Japan,2,1,1,2096e642ff31,H
+world_cup,2014,Group stage,15/06/2014,France,Honduras,3,0,1,8c3f22bcc6b0,H
+world_cup,2014,Group stage,15/06/2014,Switzerland,Ecuador,2,1,1,3ef9b00c35d8,H
+world_cup,2014,Group stage,15/06/2014,Argentina,Bosnia Herzegovina,2,1,1,373cd40a5218,H
+world_cup,2014,Group stage,16/06/2014,Iran,Nigeria,0,0,1,76678b4ef154,D
+world_cup,2014,Group stage,16/06/2014,Germany,Portugal,4,0,1,b04725d5ef36,H
+world_cup,2014,Group stage,16/06/2014,Ghana,USA,1,2,1,7923cbb0d6ea,A
+world_cup,2014,Group stage,17/06/2014,Belgium,Algeria,2,1,1,95b87f1c848a,H
+world_cup,2014,Group stage,17/06/2014,Russia,South Korea,1,1,1,744dd6cf3e74,D
+world_cup,2014,Group stage,17/06/2014,Brazil,Mexico,0,0,1,04ced993ae5c,D
+world_cup,2014,Group stage,18/06/2014,Australia,Netherlands,2,3,1,b6cd24711bbc,A
+world_cup,2014,Group stage,18/06/2014,Spain,Chile,0,2,1,b4fd311f5589,A
+world_cup,2014,Group stage,18/06/2014,Cameroon,Croatia,0,4,1,af87466904a4,A
+world_cup,2014,Group stage,19/06/2014,Colombia,Ivory Coast,2,1,1,60344bdff110,H
+world_cup,2014,Group stage,19/06/2014,Uruguay,England,2,1,1,53cd9ef79134,H
+world_cup,2014,Group stage,19/06/2014,Japan,Greece,0,0,1,498926be7716,D
+world_cup,2014,Group stage,20/06/2014,Switzerland,France,2,5,1,9ca8f6fe584d,A
+world_cup,2014,Group stage,20/06/2014,Honduras,Ecuador,1,2,1,9b5353c5f722,A
+world_cup,2014,Group stage,20/06/2014,Italy,Costa Rica,0,1,1,d1219853c541,A
+world_cup,2014,Group stage,21/06/2014,Germany,Ghana,2,2,1,3ef67538f3d7,D
+world_cup,2014,Group stage,21/06/2014,Nigeria,Bosnia Herzegovina,1,0,1,cfe071d4c4b0,H
+world_cup,2014,Group stage,21/06/2014,Argentina,Iran,1,0,1,06a378568895,H
+world_cup,2014,Group stage,22/06/2014,South Korea,Algeria,2,4,1,dfe2d484452c,A
+world_cup,2014,Group stage,22/06/2014,Belgium,Russia,1,0,1,9544391cfedc,H
+world_cup,2014,Group stage,22/06/2014,USA,Portugal,2,2,1,52eb2845cccf,D
+world_cup,2014,Group stage,23/06/2014,Netherlands,Chile,2,0,1,3b5ddac6cfba,H
+world_cup,2014,Group stage,23/06/2014,Croatia,Mexico,1,3,1,e9d3a9531b75,A
+world_cup,2014,Group stage,23/06/2014,Cameroon,Brazil,1,4,1,ca02f900c489,A
+world_cup,2014,Group stage,23/06/2014,Australia,Spain,0,3,1,0b7fc2435df0,A
+world_cup,2014,Group stage,24/06/2014,Japan,Colombia,1,4,1,6293bdb5de29,A
+world_cup,2014,Group stage,24/06/2014,Greece,Ivory Coast,2,1,1,a6c507b27b58,H
+world_cup,2014,Group stage,24/06/2014,Italy,Uruguay,0,1,1,76f6c0db4ce5,A
+world_cup,2014,Group stage,24/06/2014,Costa Rica,England,0,0,1,f6fe6e8772ce,D
+world_cup,2014,Group stage,25/06/2014,Ecuador,France,0,0,1,1dad7e5ceb04,D
+world_cup,2014,Group stage,25/06/2014,Nigeria,Argentina,2,3,1,85f6b5ac2877,A
+world_cup,2014,Group stage,25/06/2014,Bosnia Herzegovina,Iran,3,1,1,6e1a1c8e11ac,H
+world_cup,2014,Group stage,25/06/2014,Honduras,Switzerland,0,3,1,249c22698640,A
+world_cup,2014,Group stage,26/06/2014,Algeria,Russia,1,1,1,674ee33cba8d,D
+world_cup,2014,Group stage,26/06/2014,USA,Germany,0,1,1,797c9170514c,A
+world_cup,2014,Group stage,26/06/2014,Portugal,Ghana,2,1,1,660fe85ce36a,H
+world_cup,2014,Group stage,26/06/2014,South Korea,Belgium,0,1,1,3ae4df369e21,A
+world_cup,2014,Round of 16,28/06/2014,Brazil,Chile,1,1,1,421b0c40448b,D
+world_cup,2014,Round of 16,28/06/2014,Colombia,Uruguay,2,0,1,333bb0d69cea,H
+world_cup,2014,Round of 16,29/06/2014,Netherlands,Mexico,2,1,1,7e7a91ef080e,H
+world_cup,2014,Round of 16,29/06/2014,Costa Rica,Greece,1,1,1,2843a6bcd0fa,D
+world_cup,2014,Round of 16,30/06/2014,France,Nigeria,2,0,1,e17f216d0e62,H
+world_cup,2014,Round of 16,30/06/2014,Germany,Algeria,2,1,1,e5157ddaa77d,H
+world_cup,2014,Round of 16,1/7/2014,Argentina,Switzerland,1,0,1,677fec38a11b,H
+world_cup,2014,Round of 16,1/7/2014,Belgium,USA,2,1,1,baf99acf90f3,H
+world_cup,2014,Quarter-finals,4/7/2014,France,Germany,0,1,1,3800f2b5538e,A
+world_cup,2014,Quarter-finals,4/7/2014,Brazil,Colombia,2,1,1,395a585fd7d5,H
+world_cup,2014,Quarter-finals,5/7/2014,Argentina,Belgium,1,0,1,41d9ae5dcf9f,H
+world_cup,2014,Quarter-finals,5/7/2014,Netherlands,Costa Rica,0,0,1,d5eaaba43f80,D
+world_cup,2014,Semi-finals,8/7/2014,Brazil,Germany,1,7,1,030144e97622,A
+world_cup,2014,Semi-finals,9/7/2014,Netherlands,Argentina,0,0,1,b67bd6b47cbb,D
+world_cup,2014,Third-place match,12/7/2014,Brazil,Netherlands,0,3,1,e399dc721dbc,A
+world_cup,2014,Final,13/07/2014,Germany,Argentina,1,0,1,9781dbefcc0e,H
+world_cup,2018,Group stage,14/06/2018,Russia,Saudi Arabia,5,0,1,74fb01fea776,H
+world_cup,2018,Group stage,15/06/2018,Morocco,Iran,0,1,1,d78e190901e8,A
+world_cup,2018,Group stage,15/06/2018,Portugal,Spain,3,3,1,e0fa1a802f46,D
+world_cup,2018,Group stage,15/06/2018,Egypt,Uruguay,0,1,1,c2d85ad6eca4,A
+world_cup,2018,Group stage,16/06/2018,France,Australia,2,1,1,50e24cd19b4c,H
+world_cup,2018,Group stage,16/06/2018,Peru,Denmark,0,1,1,ea4dd346cef1,A
+world_cup,2018,Group stage,16/06/2018,Argentina,Iceland,1,1,1,1ed73916874e,D
+world_cup,2018,Group stage,16/06/2018,Croatia,Nigeria,2,0,1,186c2623a22b,H
+world_cup,2018,Group stage,17/06/2018,Costa Rica,Serbia,0,1,1,59153c0e25ad,A
+world_cup,2018,Group stage,17/06/2018,Brazil,Switzerland,1,1,1,ed9447b1b059,D
+world_cup,2018,Group stage,17/06/2018,Germany,Mexico,0,1,1,2cceef4563dd,A
+world_cup,2018,Group stage,18/06/2018,Tunisia,England,1,2,1,79655c7e1431,A
+world_cup,2018,Group stage,18/06/2018,Belgium,Panama,3,0,1,cdd9347db90c,H
+world_cup,2018,Group stage,18/06/2018,Sweden,South Korea,1,0,1,57deb35dc99c,H
+world_cup,2018,Group stage,19/06/2018,Poland,Senegal,1,2,1,9886f879171d,A
+world_cup,2018,Group stage,19/06/2018,Colombia,Japan,1,2,1,0cf512e06bce,A
+world_cup,2018,Group stage,19/06/2018,Russia,Egypt,3,1,1,b5790e674293,H
+world_cup,2018,Group stage,20/06/2018,Iran,Spain,0,1,1,2e840d58e696,A
+world_cup,2018,Group stage,20/06/2018,Portugal,Morocco,1,0,1,63cb49ba789f,H
+world_cup,2018,Group stage,20/06/2018,Uruguay,Saudi Arabia,1,0,1,b9e2adea2c63,H
+world_cup,2018,Group stage,21/06/2018,Argentina,Croatia,0,3,1,cd6876af7d87,A
+world_cup,2018,Group stage,21/06/2018,France,Peru,1,0,1,ac86884e1bdb,H
+world_cup,2018,Group stage,21/06/2018,Denmark,Australia,1,1,1,82a20b3eb592,D
+world_cup,2018,Group stage,22/06/2018,Brazil,Costa Rica,2,0,1,f039a140f877,H
+world_cup,2018,Group stage,22/06/2018,Nigeria,Iceland,2,0,1,6837f6c5f548,H
+world_cup,2018,Group stage,22/06/2018,Serbia,Switzerland,1,2,1,274f2c75e80b,A
+world_cup,2018,Group stage,23/06/2018,Germany,Sweden,2,1,1,6c39b71fb7a4,H
+world_cup,2018,Group stage,23/06/2018,South Korea,Mexico,1,2,1,8be33774f5df,A
+world_cup,2018,Group stage,23/06/2018,Belgium,Tunisia,5,2,1,fa0879b5e4ee,H
+world_cup,2018,Group stage,24/06/2018,Poland,Colombia,0,3,1,5d44fe1cf351,A
+world_cup,2018,Group stage,24/06/2018,England,Panama,6,1,1,c9d88b7be64c,H
+world_cup,2018,Group stage,24/06/2018,Japan,Senegal,2,2,1,322bd3e3f033,D
+world_cup,2018,Group stage,25/06/2018,Iran,Portugal,1,1,1,615df15ca022,D
+world_cup,2018,Group stage,25/06/2018,Saudi Arabia,Egypt,2,1,1,65505e74b67d,H
+world_cup,2018,Group stage,25/06/2018,Spain,Morocco,2,2,1,1a1a9d2fff48,D
+world_cup,2018,Group stage,25/06/2018,Uruguay,Russia,3,0,1,8f82eeef1907,H
+world_cup,2018,Group stage,26/06/2018,Nigeria,Argentina,1,2,1,5af7326853d0,A
+world_cup,2018,Group stage,26/06/2018,Iceland,Croatia,1,2,1,6accb7523691,A
+world_cup,2018,Group stage,26/06/2018,Australia,Peru,0,2,1,a1863d563029,A
+world_cup,2018,Group stage,26/06/2018,Denmark,France,0,0,1,e5640501a539,D
+world_cup,2018,Group stage,27/06/2018,South Korea,Germany,2,0,1,4d2b32b899ce,H
+world_cup,2018,Group stage,27/06/2018,Serbia,Brazil,0,2,1,4f2d4333adc7,A
+world_cup,2018,Group stage,27/06/2018,Switzerland,Costa Rica,2,2,1,e1021e6ef69d,D
+world_cup,2018,Group stage,27/06/2018,Mexico,Sweden,0,3,1,b817a876b3c6,A
+world_cup,2018,Group stage,28/06/2018,Japan,Poland,0,1,1,3a94b73b3e00,A
+world_cup,2018,Group stage,28/06/2018,Senegal,Colombia,0,1,1,dfd22a220d2f,A
+world_cup,2018,Group stage,28/06/2018,England,Belgium,0,1,1,51b50529a3fb,A
+world_cup,2018,Group stage,28/06/2018,Panama,Tunisia,1,2,1,246bcebced5a,A
+world_cup,2018,Round of 16,30/06/2018,France,Argentina,4,3,1,40a21e6074fb,H
+world_cup,2018,Round of 16,30/06/2018,Uruguay,Portugal,2,1,1,81e1cbee2ca8,H
+world_cup,2018,Round of 16,1/7/2018,Croatia,Denmark,1,1,1,a880934c6168,D
+world_cup,2018,Round of 16,1/7/2018,Spain,Russia,1,1,1,5e9d92a168bf,D
+world_cup,2018,Round of 16,2/7/2018,Brazil,Mexico,2,0,1,8092995096cd,H
+world_cup,2018,Round of 16,2/7/2018,Belgium,Japan,3,2,1,03922e91c18f,H
+world_cup,2018,Round of 16,3/7/2018,Sweden,Switzerland,1,0,1,5f3837a3ad68,H
+world_cup,2018,Round of 16,3/7/2018,Colombia,England,1,1,1,898efb8879a9,D
+world_cup,2018,Quarter-finals,6/7/2018,Brazil,Belgium,1,2,1,1e2d401ae325,A
+world_cup,2018,Quarter-finals,6/7/2018,Uruguay,France,0,2,1,2508fc8c577c,A
+world_cup,2018,Quarter-finals,7/7/2018,Russia,Croatia,2,2,1,a4b371eeaf59,D
+world_cup,2018,Quarter-finals,7/7/2018,Sweden,England,0,2,1,708266aeb429,A
+world_cup,2018,Semi-finals,10/7/2018,France,Belgium,1,0,1,23d4800cebd7,H
+world_cup,2018,Semi-finals,11/7/2018,Croatia,England,2,1,1,cbaeda61c5c8,H
+world_cup,2018,Third-place match,14/07/2018,Belgium,England,2,0,1,8269c14235c8,H
+world_cup,2018,Final,15/07/2018,France,Croatia,4,2,1,748a38827e91,H
+world_cup,2022,Group stage,20/11/2022,Qatar,Ecuador,0,2,1,4237de57a6df,A
+world_cup,2022,Group stage,21/11/2022,USA,Wales,1,1,1,e3f3f76eb777,D
+world_cup,2022,Group stage,21/11/2022,Senegal,Netherlands,0,2,1,0e72aa6e00ed,A
+world_cup,2022,Group stage,21/11/2022,England,Iran,6,2,1,0efc1aa51dbb,H
+world_cup,2022,Group stage,22/11/2022,Argentina,Saudi Arabia,1,2,1,1c1b6090268f,A
+world_cup,2022,Group stage,22/11/2022,Denmark,Tunisia,0,0,1,9e4e49f12ab6,D
+world_cup,2022,Group stage,22/11/2022,Mexico,Poland,0,0,1,8573488776f7,D
+world_cup,2022,Group stage,22/11/2022,France,Australia,4,1,1,9e657b81f12b,H
+world_cup,2022,Group stage,23/11/2022,Belgium,Canada,1,0,1,cd63833b34f2,H
+world_cup,2022,Group stage,23/11/2022,Morocco,Croatia,0,0,1,dd76857d4484,D
+world_cup,2022,Group stage,23/11/2022,Germany,Japan,1,2,1,cfc88245e256,A
+world_cup,2022,Group stage,23/11/2022,Spain,Costa Rica,7,0,1,5c8eba733524,H
+world_cup,2022,Group stage,24/11/2022,Uruguay,South Korea,0,0,1,811c7188eefe,D
+world_cup,2022,Group stage,24/11/2022,Brazil,Serbia,2,0,1,e02931c1ba22,H
+world_cup,2022,Group stage,24/11/2022,Switzerland,Cameroon,1,0,1,150e2435a9b3,H
+world_cup,2022,Group stage,24/11/2022,Portugal,Ghana,3,2,1,bd68dfda6282,H
+world_cup,2022,Group stage,25/11/2022,Wales,Iran,0,2,1,7312d3edd13e,A
+world_cup,2022,Group stage,25/11/2022,Qatar,Senegal,1,3,1,3dc57df5ddca,A
+world_cup,2022,Group stage,25/11/2022,Netherlands,Ecuador,1,1,1,22db6e1f7b7a,D
+world_cup,2022,Group stage,25/11/2022,England,USA,0,0,1,8ca982f4c082,D
+world_cup,2022,Group stage,26/11/2022,Tunisia,Australia,0,1,1,f121fb4b376e,A
+world_cup,2022,Group stage,26/11/2022,Poland,Saudi Arabia,2,0,1,6376688e408c,H
+world_cup,2022,Group stage,26/11/2022,France,Denmark,2,1,1,b0cd2eca39c7,H
+world_cup,2022,Group stage,26/11/2022,Argentina,Mexico,2,0,1,b4acf3f0c1ca,H
+world_cup,2022,Group stage,27/11/2022,Spain,Germany,1,1,1,4e885a2f16d9,D
+world_cup,2022,Group stage,27/11/2022,Japan,Costa Rica,0,1,1,9c60f9c041df,A
+world_cup,2022,Group stage,27/11/2022,Belgium,Morocco,0,2,1,fc3717c2460d,A
+world_cup,2022,Group stage,27/11/2022,Croatia,Canada,4,1,1,e552675a5941,H
+world_cup,2022,Group stage,28/11/2022,Brazil,Switzerland,1,0,1,8fdcff49b673,H
+world_cup,2022,Group stage,28/11/2022,Portugal,Uruguay,2,0,1,1d67f3a2f847,H
+world_cup,2022,Group stage,28/11/2022,South Korea,Ghana,2,3,1,9c42c51593bd,A
+world_cup,2022,Group stage,28/11/2022,Cameroon,Serbia,3,3,1,6df1d1e28832,D
+world_cup,2022,Group stage,29/11/2022,Iran,USA,0,1,1,fb99d72782df,A
+world_cup,2022,Group stage,29/11/2022,Ecuador,Senegal,1,2,1,b71736e41d20,A
+world_cup,2022,Group stage,29/11/2022,Netherlands,Qatar,2,0,1,7e4982496778,H
+world_cup,2022,Group stage,29/11/2022,Wales,England,0,3,1,d9bee77483a0,A
+world_cup,2022,Group stage,30/11/2022,Poland,Argentina,0,2,1,46a05dc4682f,A
+world_cup,2022,Group stage,30/11/2022,Saudi Arabia,Mexico,1,2,1,bec75ab1ae8a,A
+world_cup,2022,Group stage,30/11/2022,Tunisia,France,1,0,1,915f6b3c416a,H
+world_cup,2022,Group stage,30/11/2022,Australia,Denmark,1,0,1,e9f16990d2b4,H
+world_cup,2022,Group stage,1/12/2022,Canada,Morocco,1,2,1,c425589d5b6c,A
+world_cup,2022,Group stage,1/12/2022,Costa Rica,Germany,2,4,1,045e6d86ad09,A
+world_cup,2022,Group stage,1/12/2022,Japan,Spain,2,1,1,c3a8a6e56b02,H
+world_cup,2022,Group stage,1/12/2022,Croatia,Belgium,0,0,1,ef6cd72aa27a,D
+world_cup,2022,Group stage,2/12/2022,Serbia,Switzerland,2,3,1,526b58679d08,A
+world_cup,2022,Group stage,2/12/2022,Cameroon,Brazil,1,0,1,68590f925248,H
+world_cup,2022,Group stage,2/12/2022,Ghana,Uruguay,0,2,1,b68fa43e3fff,A
+world_cup,2022,Group stage,2/12/2022,South Korea,Portugal,2,1,1,67bb83581142,H
+world_cup,2022,Round of 16,3/12/2022,Argentina,Australia,2,1,1,0b17d9f22b1b,H
+world_cup,2022,Round of 16,3/12/2022,Netherlands,USA,3,1,1,148b4bddab1a,H
+world_cup,2022,Round of 16,4/12/2022,France,Poland,3,1,1,18ac59298c07,H
+world_cup,2022,Round of 16,4/12/2022,England,Senegal,3,0,1,9ed5c0340e2b,H
+world_cup,2022,Round of 16,5/12/2022,Brazil,South Korea,4,1,1,e4c31052cb71,H
+world_cup,2022,Round of 16,5/12/2022,Japan,Croatia,1,1,1,afa4749e4354,D
+world_cup,2022,Round of 16,6/12/2022,Morocco,Spain,0,0,1,a53b23f4ee60,D
+world_cup,2022,Round of 16,6/12/2022,Portugal,Switzerland,6,1,1,37e8e263b98d,H
+world_cup,2022,Quarter-finals,9/12/2022,Netherlands,Argentina,2,2,1,7549c0601694,D
+world_cup,2022,Quarter-finals,9/12/2022,Croatia,Brazil,1,1,1,2874b4e96968,D
+world_cup,2022,Quarter-finals,10/12/2022,England,France,1,2,1,bbdfd7d189d7,A
+world_cup,2022,Quarter-finals,10/12/2022,Morocco,Portugal,1,0,1,c8b2205b9835,H
+world_cup,2022,Semi-finals,13/12/2022,Argentina,Croatia,3,0,1,e218bf913167,H
+world_cup,2022,Semi-finals,14/12/2022,France,Morocco,2,0,1,a16f26d4c2d0,H
+world_cup,2022,Third-place match,17/12/2022,Croatia,Morocco,2,1,1,9f8308587563,H
+world_cup,2022,Final,18/12/2022,Argentina,France,3,3,1,01c05e2ef904,D
